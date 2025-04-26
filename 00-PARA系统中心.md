@@ -218,14 +218,6 @@ graph LR
 
 ## 活跃项目一览
 
-```dataview
-TABLE 
-  file.cday as "创建日期",
-  file.mday as "最后修改"
-FROM #project and #status/active
-SORT file.mday DESC
-```
-
 ## 最近笔记
 
 ```dataview
