@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "百里守约",
+      "path": "03-Resources/学习资料/王者荣耀/百里守约.md"
+    },
+    {
+      "basename": "Archives-MOC",
+      "path": "04-Archives/Archives-MOC.md"
+    },
+    {
+      "basename": "00-PARA系统中心",
+      "path": "00-PARA系统中心.md"
+    },
+    {
+      "basename": "小鸟dataview检索",
+      "path": "03-Resources/学习资料/小鸟dataview检索.md"
+    },
+    {
       "basename": "00. 卡片盒",
       "path": "50 - 卡片知识/00. 卡片盒.md"
     },
@@ -159,46 +175,6 @@
     {
       "basename": "music and birthday countdown 1",
       "path": "40 - Obsidian/react组件/music and birthday countdown 1.md"
-    },
-    {
-      "basename": "MoodTracker",
-      "path": "40 - Obsidian/react组件/MoodTracker.md"
-    },
-    {
-      "basename": "2023年07月02日",
-      "path": "00 - 每日日记/DailyNote/2023年07月02日.md"
-    },
-    {
-      "basename": "2023年07月01日",
-      "path": "00 - 每日日记/DailyNote/2023年07月01日.md"
-    },
-    {
-      "basename": "2023年07月06日",
-      "path": "00 - 每日日记/DailyNote/2023年07月06日.md"
-    },
-    {
-      "basename": "2023年07月07日",
-      "path": "00 - 每日日记/DailyNote/2023年07月07日.md"
-    },
-    {
-      "basename": "2023年07月10日",
-      "path": "00 - 每日日记/DailyNote/2023年07月10日.md"
-    },
-    {
-      "basename": "2023年07月13日",
-      "path": "00 - 每日日记/DailyNote/2023年07月13日.md"
-    },
-    {
-      "basename": "2023年07月15日",
-      "path": "00 - 每日日记/DailyNote/2023年07月15日.md"
-    },
-    {
-      "basename": "2023年07月17日",
-      "path": "00 - 每日日记/DailyNote/2023年07月17日.md"
-    },
-    {
-      "basename": "2023年07月18日",
-      "path": "00 - 每日日记/DailyNote/2023年07月18日.md"
     }
   ],
   "omittedPaths": [],

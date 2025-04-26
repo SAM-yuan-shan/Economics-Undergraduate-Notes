@@ -13,7 +13,7 @@ created: 2025-04-26
 TABLE 
   file.cday as "创建日期",
   file.mday as "归档日期"
-FROM #project #status/archived
+FROM #project and #status/archived
 SORT file.mday DESC
 ```
 

@@ -182,7 +182,7 @@ graph LR
 TABLE 
   file.cday as "创建日期",
   file.mday as "最后修改"
-FROM #project #status/active
+FROM #project and #status/active
 SORT file.mday DESC
 ```
 
