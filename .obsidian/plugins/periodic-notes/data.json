@@ -4,30 +4,32 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY年MM月DD日",
-    "template": "40 - Obsidian/模板/每日日记模板.md",
-    "folder": "00 - 每日日记/DailyNote",
+    "template": "06-Templates/template-daily.md",
+    "folder": "05-Journal/Daily",
     "enabled": true
   },
   "weekly": {
     "format": "YYYY年WW周记录",
-    "template": "40 - Obsidian/模板/每周周记模板.md",
-    "folder": "00 - 每日日记/WeeklyNote",
+    "template": "06-Templates/template-weekly.md",
+    "folder": "05-Journal/Weekly",
     "enabled": true
   },
   "monthly": {
-    "format": "",
-    "template": "",
-    "folder": ""
+    "format": "YYYY年MM月记录",
+    "template": "06-Templates/template-monthly.md",
+    "folder": "05-Journal/Monthly",
+    "enabled": true
   },
   "quarterly": {
     "format": "YYYY年第Q季度规划",
-    "template": "40 - Obsidian/模板/季度OKR模板.md",
-    "folder": "00 - 每日日记/QuarterlyNote",
+    "template": "06-Templates/template-quarterly.md",
+    "folder": "06-Templates/template-quarterly.md",
     "enabled": true
   },
   "yearly": {
-    "format": "",
-    "template": "",
-    "folder": ""
+    "format": "YYYY年规划",
+    "template": "06-Templates/template-yearly.md",
+    "folder": "05-Journal/Yearly",
+    "enabled": true
   }
 }

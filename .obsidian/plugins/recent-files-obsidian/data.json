@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "学生第四章公司法",
-      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第四章公司法.md"
+      "basename": "00-PARA系统中心",
+      "path": "00-PARA系统中心.md"
     },
     {
-      "basename": "学生第三章合伙企业法",
-      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第三章合伙企业法.md"
+      "basename": "template-daily",
+      "path": "06-Templates/template-daily.md"
+    },
+    {
+      "basename": "template-quarterly",
+      "path": "06-Templates/template-quarterly.md"
+    },
+    {
+      "basename": "template-monthly",
+      "path": "06-Templates/template-monthly.md"
+    },
+    {
+      "basename": "00-Git项目维护",
+      "path": "01-Projects/00-Git项目维护.md"
+    },
+    {
+      "basename": "00-Git使用技巧",
+      "path": "03-Resources/03-工具/04-Github/00-Git使用技巧.md"
+    },
+    {
+      "basename": "template-yearly",
+      "path": "06-Templates/template-yearly.md"
+    },
+    {
+      "basename": "template-weekly",
+      "path": "06-Templates/template-weekly.md"
+    },
+    {
+      "basename": "2025年04月26日",
+      "path": "05-Journal/Daily/2025年04月26日.md"
+    },
+    {
+      "basename": "31-整理课堂笔记",
+      "path": "02-Areas/01-学习/01-经济法/03-自学笔记/31-整理课堂笔记.md"
     },
     {
       "basename": "学生第一章经济法基础知识",
       "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第一章经济法基础知识.md"
+    },
+    {
+      "basename": "02-整理课堂笔记",
+      "path": "02-Areas/01-学习/01-经济法/00-模板/02-整理课堂笔记.md"
+    },
+    {
+      "basename": "31-预习目标",
+      "path": "02-Areas/01-学习/01-经济法/02-预习笔记/31-预习目标.md"
+    },
+    {
+      "basename": "学生第4章公司法",
+      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第4章公司法.md"
+    },
+    {
+      "basename": "学生第五章企业破产法",
+      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第五章企业破产法.md"
+    },
+    {
+      "basename": "31",
+      "path": "02-Areas/01-学习/01-经济法/01-讲稿/31.md"
+    },
+    {
+      "basename": "学生第三章合伙企业法",
+      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第三章合伙企业法.md"
     },
     {
       "basename": "Archives-MOC",
@@ -19,10 +75,6 @@
     {
       "basename": "百里守约",
       "path": "03-Resources/学习资料/王者荣耀/百里守约.md"
-    },
-    {
-      "basename": "00-PARA系统中心",
-      "path": "00-PARA系统中心.md"
     },
     {
       "basename": "小鸟dataview检索",
@@ -147,46 +199,6 @@
     {
       "basename": "Rainbell库用户实例",
       "path": "Rainbell库用户实例.md"
-    },
-    {
-      "basename": "【实例】O0. 素菜馆",
-      "path": "20 - 工作学习/工作/素菜馆推进/【实例】O0. 素菜馆.md"
-    },
-    {
-      "basename": "任务面板",
-      "path": "40 - Obsidian/脚本/tasksCalendar/任务面板.md"
-    },
-    {
-      "basename": "破译金庸密码",
-      "path": "30 - 阅读笔记/破译金庸密码.md"
-    },
-    {
-      "basename": "中国古代衣食住行",
-      "path": "30 - 阅读笔记/中国古代衣食住行.md"
-    },
-    {
-      "basename": "00. 人员",
-      "path": "10 - 人员管理/家人/00. 人员.md"
-    },
-    {
-      "basename": "00. 宠物",
-      "path": "10 - 人员管理/宠物/00. 宠物.md"
-    },
-    {
-      "basename": "使用实例1：本地音乐播放器 + 生日倒计时",
-      "path": "40 - Obsidian/react组件/使用实例/使用实例1：本地音乐播放器 + 生日倒计时.md"
-    },
-    {
-      "basename": "使用实例2：心情组件&生日倒计时",
-      "path": "40 - Obsidian/react组件/使用实例/使用实例2：心情组件&生日倒计时.md"
-    },
-    {
-      "basename": "音乐播放器",
-      "path": "40 - Obsidian/react组件/音乐播放器.md"
-    },
-    {
-      "basename": "music and birthday countdown 1",
-      "path": "40 - Obsidian/react组件/music and birthday countdown 1.md"
     }
   ],
   "omittedPaths": [],
