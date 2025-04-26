@@ -5,16 +5,40 @@
       "path": "05-Journal/Daily/2025年04月26日.md"
     },
     {
-      "basename": "template-daily",
-      "path": "06-Templates/template-daily.md"
+      "basename": "02-PPT制作要点",
+      "path": "01-Projects/01-竞赛项目/02-建模大赛/02-PPT制作要点.md"
+    },
+    {
+      "basename": "01-待办事项",
+      "path": "01-Projects/01-竞赛项目/02-建模大赛/01-待办事项.md"
+    },
+    {
+      "basename": "01-个人发展建议",
+      "path": "05-Journal/01-个人发展建议.md"
+    },
+    {
+      "basename": "template-weekly",
+      "path": "06-Templates/template-weekly.md"
+    },
+    {
+      "basename": "学生第五章企业破产法",
+      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第五章企业破产法.md"
+    },
+    {
+      "basename": "学生第三章合伙企业法",
+      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第三章合伙企业法.md"
+    },
+    {
+      "basename": "01-Microsoft Word排版技巧",
+      "path": "03-Resources/03-工具/01-Microsoft Word排版技巧.md"
     },
     {
       "basename": "template-quarterly",
       "path": "06-Templates/template-quarterly.md"
     },
     {
-      "basename": "01-个人发展建议",
-      "path": "05-Journal/01-个人发展建议.md"
+      "basename": "template-daily",
+      "path": "06-Templates/template-daily.md"
     },
     {
       "basename": "README",
@@ -23,10 +47,6 @@
     {
       "basename": "02-整理课堂笔记",
       "path": "06-Templates/00-课堂模板/02-整理课堂笔记.md"
-    },
-    {
-      "basename": "学生第五章企业破产法",
-      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第五章企业破产法.md"
     },
     {
       "basename": "00-PARA系统中心",
@@ -47,10 +67,6 @@
     {
       "basename": "template-yearly",
       "path": "06-Templates/template-yearly.md"
-    },
-    {
-      "basename": "template-weekly",
-      "path": "06-Templates/template-weekly.md"
     },
     {
       "basename": "31-整理课堂笔记",
@@ -75,10 +91,6 @@
     {
       "basename": "31",
       "path": "02-Areas/01-学习/01-经济法/01-讲稿/31.md"
-    },
-    {
-      "basename": "学生第三章合伙企业法",
-      "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第三章合伙企业法.md"
     },
     {
       "basename": "Archives-MOC",
@@ -187,18 +199,6 @@
     {
       "basename": "Screen Shot 2022-06-02 at 15.10.29",
       "path": "40 - Obsidian/附件/Screen Shot 2022-06-02 at 15.10.29.png"
-    },
-    {
-      "basename": "百里守约绝影神枪",
-      "path": "40 - Obsidian/附件/百里守约绝影神枪.png"
-    },
-    {
-      "basename": "项目一",
-      "path": "20 - 工作学习/工作/项目一.md"
-    },
-    {
-      "basename": "项目二",
-      "path": "20 - 工作学习/工作/项目二.md"
     }
   ],
   "omittedPaths": [],
