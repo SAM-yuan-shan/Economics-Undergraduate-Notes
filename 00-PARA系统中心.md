@@ -226,4 +226,25 @@ TABLE
 FROM -"模板"
 SORT file.mday DESC
 LIMIT 10
-``` 
+```
+
+## CSS 代码片段说明
+
+以下是 `.obsidian/snippets` 文件夹中使用的 CSS 代码片段及其功能说明：
+
+1.  **【项目管理】sharetype.css**: 美化或调整与项目管理相关的笔记或视图样式。
+2.  **【进度颜色】colourful progress bar.css**: 为进度条添加不同的颜色，使其更加醒目。
+3.  **【音乐播放器】Music Player.css**: 添加或美化 Obsidian 中的音乐播放器界面样式。
+4.  **【边栏图标】sidepane.css**: 自定义 Obsidian 侧边栏的图标样式或添加新图标。
+5.  **【日记时间轴】Time.css**: 将日记或特定笔记以时间轴的视觉样式展示。
+6.  **【生日倒计时】birthday countdown.css**: 设置显示生日倒计时的元素样式。
+7.  **【收件箱图标】收件箱icon.css**: 在界面某处（如文件夹或特定笔记）添加"收件箱"图标。
+8.  **【情绪记录】MoodTracker.css**: 美化情绪记录相关元素，可能配合 Dataview 或其他插件在日记中使用。
+9.  **【卡片视图】zettelkasten.css**: 将笔记渲染成卡片样式，模仿 Zettelkasten（卡片盒笔记法）的视觉效果。
+10. **【分栏支持】admonition-col2-col3-flex.css**: 提供 CSS 代码，使笔记内容（可能是 Admonition 块或其他元素）能够实现两栏或三栏的布局。
+11. **【便签样式】stickies.css**: 将特定的笔记或 Callout 块渲染成类似便利贴（便签）的样式。
+12. **【侧边栏设置】rightlane setting.css**: 针对 Obsidian 右侧边栏进行个性化的样式设置或调整。
+13. **【侧边栏播放器图标】rightlane music player icon.css**: 在右侧边栏为音乐播放器功能添加或修改图标样式。
+14. **【主页设置移动端】homepage setting media mobile.css**: 针对移动设备优化自定义主页布局的 CSS 样式。
+15. **【主页设置】homepage setting.css**: 包含设置自定义主页布局的主要 CSS 样式。
+16. **【AD优化】admonitions.css**: 对 Admonitions 插件生成的 Callout 块进行样式上的优化或调整。 
