@@ -63,3 +63,4 @@
 
 ---
 此笔记记录了配置过程中的关键信息和遇到的问题，便于日后查阅。 
+![image.png](https://raw.githubusercontent.com/SAMLAY-c/obsidian-photos/university/img/20250426171414066.png)
