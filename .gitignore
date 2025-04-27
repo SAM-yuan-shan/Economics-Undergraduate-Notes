@@ -21,4 +21,9 @@ desktop.ini
 01-Projects/04-互联网+白桦茸项目/
 02-Areas/03-个人成长/
 01-Projects/03-实习申请/
-01-Projects/01-竞赛项目/02-建模大赛/ 
+01-Projects/01-竞赛项目/02-建模大赛/
+
+# Ignore large PDF files removed from Git history
+02-Areas/01-学习/06-财务管理学/荆新《财务管理学》第9版 学习指导.pdf
+02-Areas/01-学习/06-财务管理学/荆新《财务管理学》第9版(1).pdf
+02-Areas/01-学习/07-制度经济学/西方现代思想丛书 通往奴役之路 修订版 (（英）弗里德里希·奥古斯特·冯·哈耶克著) (Z-Library).pdf 
