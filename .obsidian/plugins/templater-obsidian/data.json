@@ -24,7 +24,7 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "06-Templates/startup-scripts/auto-open-weekly-note.js"
   ],
   "enable_ribbon_icon": true
 }
