@@ -22,5 +22,6 @@
   "tasks-calendar-wrapper",
   "obsidian-minimal-settings",
   "cmdr",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-linter"
 ]

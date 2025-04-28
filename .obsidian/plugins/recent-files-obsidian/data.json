@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "32",
+      "path": "02-Areas/01-学习/01-经济法/04-课堂笔记/32.md"
+    },
+    {
+      "basename": "32-股份有限公司",
+      "path": "02-Areas/01-学习/01-经济法/03-自学笔记/32-股份有限公司.md"
+    },
+    {
+      "basename": "29",
+      "path": "02-Areas/01-学习/01-经济法/01-讲稿/29.md"
+    },
+    {
+      "basename": "31-整理课堂笔记",
+      "path": "02-Areas/01-学习/01-经济法/03-自学笔记/31-整理课堂笔记.md"
+    },
+    {
+      "basename": "31-预习目标",
+      "path": "02-Areas/01-学习/01-经济法/02-预习笔记/31-预习目标.md"
+    },
+    {
+      "basename": "01-Linter与EasyTyping插件详解",
+      "path": "03-Resources/03-工具/06-Obsidian学习/01-Linter与EasyTyping插件详解.md"
+    },
+    {
       "basename": "01-CNN基础逻辑入门",
       "path": "01-Projects/01-竞赛项目/02-建模大赛/CNN/01-CNN基础逻辑入门.md"
     },
@@ -53,20 +77,12 @@
       "path": "03-Resources/03-工具/05-AI工具/01-Supermemory-MCP使用指南.md"
     },
     {
-      "basename": "31-整理课堂笔记",
-      "path": "02-Areas/01-学习/01-经济法/03-自学笔记/31-整理课堂笔记.md"
-    },
-    {
       "basename": "31",
       "path": "02-Areas/01-学习/01-经济法/01-讲稿/31.md"
     },
     {
       "basename": "新制度经济学（第二版） (卢现祥,朱巧云) (Z-Library)",
       "path": "02-Areas/01-学习/07-制度经济学/新制度经济学（第二版） (卢现祥,朱巧云) (Z-Library).pdf"
-    },
-    {
-      "basename": "西方现代思想丛书 通往奴役之路 修订版 (（英）弗里德里希·奥古斯特·冯·哈耶克著) (Z-Library)",
-      "path": "02-Areas/01-学习/07-制度经济学/西方现代思想丛书 通往奴役之路 修订版 (（英）弗里德里希·奥古斯特·冯·哈耶克著) (Z-Library).pdf"
     },
     {
       "basename": "06-",
@@ -79,10 +95,6 @@
     {
       "basename": "05-政府介入基础设施领域理论",
       "path": "02-Areas/01-学习/07-制度经济学/05-政府介入基础设施领域理论.md"
-    },
-    {
-      "basename": "荆新《财务管理学》第9版",
-      "path": "02-Areas/01-学习/06-财务管理学/荆新《财务管理学》第9版.pdf"
     },
     {
       "basename": "2-3 有价证券的估值",
@@ -157,10 +169,6 @@
       "path": "02-Areas/01-学习/01-经济法/00-模板/02-整理课堂笔记.md"
     },
     {
-      "basename": "31-预习目标",
-      "path": "02-Areas/01-学习/01-经济法/02-预习笔记/31-预习目标.md"
-    },
-    {
       "basename": "学生第4章公司法",
       "path": "02-Areas/01-学习/01-经济法/01-学案-md/学生第4章公司法.md"
     },
@@ -191,17 +199,12 @@
     {
       "basename": "更新日志",
       "path": "更新日志.md"
-    },
-    {
-      "basename": "00. 代码库",
-      "path": "20 - 工作学习/代码库/00. 代码库.md"
-    },
-    {
-      "basename": "侧边栏当日日程",
-      "path": "40 - Obsidian/侧边栏/侧边栏当日日程.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }
