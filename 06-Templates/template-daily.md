@@ -47,15 +47,11 @@ limit 20
 ```dataview
 
 TABLE WITHOUT ID
-
-    file.link AS "笔记",
-
-    file.ctime AS "创建时间",
-
-    file.mtime AS "修改时间"
-
+    file.folder AS "来源文件夹",
+    file.link AS "笔记",
+    file.ctime AS "创建时间",
+    file.mtime AS "修改时间"
 FROM ""
-
 WHERE (file.cday = date(today) OR file.mday = date(today)) AND file.path != this.file.path
 SORT file.mtime DESC
 LIMIT 20
