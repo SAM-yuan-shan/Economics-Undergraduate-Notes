@@ -23,5 +23,6 @@
   "obsidian-minimal-settings",
   "cmdr",
   "obsidian-image-auto-upload-plugin",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-to-anki-plugin"
 ]
