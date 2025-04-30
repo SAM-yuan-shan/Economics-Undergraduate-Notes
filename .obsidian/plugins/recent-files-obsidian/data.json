@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "18",
+      "path": "18.md"
+    },
+    {
+      "basename": "17",
+      "path": "17.md"
+    },
+    {
+      "basename": "16",
+      "path": "16.md"
+    },
+    {
+      "basename": "15",
+      "path": "15.md"
+    },
+    {
+      "basename": "14",
+      "path": "14.md"
+    },
+    {
+      "basename": "13",
+      "path": "13.md"
+    },
+    {
+      "basename": "12",
+      "path": "12.md"
+    },
+    {
+      "basename": "11",
+      "path": "11.md"
+    },
+    {
+      "basename": "9-",
+      "path": "9-.md"
+    },
+    {
+      "basename": "10-",
+      "path": "10-.md"
+    },
+    {
+      "basename": "8-",
+      "path": "8-.md"
+    },
+    {
+      "basename": "6-",
+      "path": "6-.md"
+    },
+    {
+      "basename": "7-",
+      "path": "7-.md"
+    },
+    {
+      "basename": "5-",
+      "path": "5-.md"
+    },
+    {
+      "basename": "4",
+      "path": "02-Areas/00-统计学讲稿/4.md"
+    },
+    {
+      "basename": "3-",
+      "path": "02-Areas/00-统计学讲稿/3-.md"
+    },
+    {
+      "basename": "2",
+      "path": "02-Areas/00-统计学讲稿/2.md"
+    },
+    {
+      "basename": "1",
+      "path": "02-Areas/00-统计学讲稿/1.md"
+    },
+    {
+      "basename": "39",
+      "path": "02-Areas/00-统计学讲稿/39.md"
+    },
+    {
+      "basename": "38",
+      "path": "02-Areas/00-统计学讲稿/38.md"
+    },
+    {
+      "basename": "36",
+      "path": "02-Areas/00-统计学讲稿/36.md"
+    },
+    {
+      "basename": "37",
+      "path": "02-Areas/00-统计学讲稿/37.md"
+    },
+    {
+      "basename": "35",
+      "path": "02-Areas/00-统计学讲稿/35.md"
+    },
+    {
+      "basename": "33",
+      "path": "02-Areas/00-统计学讲稿/33.md"
+    },
+    {
+      "basename": "34",
+      "path": "02-Areas/00-统计学讲稿/34.md"
+    },
+    {
+      "basename": "32",
+      "path": "02-Areas/00-统计学讲稿/32.md"
+    },
+    {
+      "basename": "2025年04月30日",
+      "path": "05-Journal/Daily/2025年04月30日.md"
+    },
+    {
+      "basename": "2025年04月29日",
+      "path": "05-Journal/Daily/2025年04月29日.md"
+    },
+    {
       "basename": "8-假设检验 课堂笔记 ✍️",
       "path": "02-Areas/01-学习/04-统计学/自学/8-假设检验 课堂笔记 ✍️.md"
     },
@@ -19,10 +131,6 @@
     {
       "basename": "8-假设检验",
       "path": "02-Areas/01-学习/04-统计学/8-假设检验.md"
-    },
-    {
-      "basename": "2025年04月30日",
-      "path": "05-Journal/Daily/2025年04月30日.md"
     },
     {
       "basename": "公共财政概论",
@@ -61,10 +169,6 @@
       "path": "02-Areas/01-学习/08-数据分析/02-数据分析工具/CNN.md"
     },
     {
-      "basename": "2025年04月29日",
-      "path": "05-Journal/Daily/2025年04月29日.md"
-    },
-    {
       "basename": "00-数据分析学习路径",
       "path": "02-Areas/01-学习/08-数据分析/00-数据分析学习路径.md"
     },
@@ -95,110 +199,6 @@
     {
       "basename": "README",
       "path": "02-Areas/01-学习/04-统计学/README.md"
-    },
-    {
-      "basename": "4-",
-      "path": "02-Areas/01-学习/02-毛概/4-.md"
-    },
-    {
-      "basename": "00-PARA系统中心",
-      "path": "00-PARA系统中心.md"
-    },
-    {
-      "basename": "00-待办事项",
-      "path": "00-待办事项.md"
-    },
-    {
-      "basename": "Archives-MOC",
-      "path": "04-Archives/Archives-MOC.md"
-    },
-    {
-      "basename": "template-monthly",
-      "path": "06-Templates/template-monthly.md"
-    },
-    {
-      "basename": "02-营销主题与口号备选",
-      "path": "01-Projects/05-CMAU竞赛项目/02-策划与设计/01-商业策划/02-营销主题与口号备选.md"
-    },
-    {
-      "basename": "2025年04月28日",
-      "path": "05-Journal/Daily/2025年04月28日.md"
-    },
-    {
-      "basename": "2025年04月27日",
-      "path": "05-Journal/Daily/2025年04月27日.md"
-    },
-    {
-      "basename": "2025年18周记录",
-      "path": "05-Journal/Weekly/2025年18周记录.md"
-    },
-    {
-      "basename": "03-Series数据分析基础笔记",
-      "path": "02-Areas/01-学习/08-数据分析/02-数据分析工具/02-Python数据分析/01-Pandas/03-Series数据分析基础笔记.md"
-    },
-    {
-      "basename": "s102",
-      "path": "03-Resources/03-工具/06-Obsidian学习/讲稿/s102.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "03-Resources/03-工具/06-Obsidian学习/讲稿/未命名.md"
-    },
-    {
-      "basename": "02",
-      "path": "02-Areas/01-学习/08-数据分析/02-数据分析工具/02-Python数据分析/01-Pandas/02.md"
-    },
-    {
-      "basename": "S101",
-      "path": "03-Resources/03-工具/06-Obsidian学习/讲稿/S101.md"
-    },
-    {
-      "basename": "01-Series索引方法",
-      "path": "02-Areas/01-学习/08-数据分析/02-数据分析工具/02-Python数据分析/01-Pandas/01-Series索引方法.md"
-    },
-    {
-      "basename": "03",
-      "path": "02-Areas/01-学习/08-数据分析/02-数据分析工具/02-Python数据分析/01-Pandas/03.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "02-Areas/01-学习/08-数据分析/02-数据分析工具/02-Python数据分析/01-Pandas/未命名.md"
-    },
-    {
-      "basename": "32",
-      "path": "02-Areas/01-学习/01-经济法/04-课堂笔记/32.md"
-    },
-    {
-      "basename": "32-股份有限公司",
-      "path": "02-Areas/01-学习/01-经济法/03-自学笔记/32-股份有限公司.md"
-    },
-    {
-      "basename": "29",
-      "path": "02-Areas/01-学习/01-经济法/01-讲稿/29.md"
-    },
-    {
-      "basename": "31-预习目标",
-      "path": "02-Areas/01-学习/01-经济法/02-预习笔记/31-预习目标.md"
-    },
-    {
-      "basename": "01-Linter与EasyTyping插件详解",
-      "path": "03-Resources/03-工具/06-Obsidian学习/01-Linter与EasyTyping插件详解.md"
-    },
-    {
-      "basename": "01-CNN基础逻辑入门",
-      "path": "01-Projects/01-竞赛项目/02-建模大赛/CNN/01-CNN基础逻辑入门.md"
-    },
-    {
-      "basename": "template-weekly",
-      "path": "06-Templates/template-weekly.md"
-    },
-    {
-      "basename": "2025年04月26日",
-      "path": "05-Journal/Daily/2025年04月26日.md"
-    },
-    {
-      "basename": "template-daily",
-      "path": "06-Templates/template-daily.md"
     }
   ],
   "omittedPaths": [],
