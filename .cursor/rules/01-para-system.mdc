@@ -1,0 +1,36 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# PARA System Rules
+
+## Directory Structure
+The workspace follows a numbered PARA system with the following main directories:
+
+- `00-PARA系统中心.md`: Central documentation of the PARA system
+- `01-Projects/`: Active projects with specific goals and deadlines
+- `02-Areas/`: Areas of ongoing responsibility
+- `03-Resources/`: Reference materials and topics of interest
+- `04-Archives/`: Completed or inactive projects/areas
+- `05-Journal/`: Personal logs and reflections
+- `06-Templates/`: Note templates and standardized formats
+
+## File Organization Rules
+
+1. All new files and folders must be prefixed with a number sequence
+2. Files must be placed in the appropriate PARA category based on their nature
+3. When in doubt about categorization, prefer `03-Resources/` or consult the user
+4. Maintain the existing numerical prefix system within each directory
+
+## Reference Files
+The following files should be consulted for context:
+- `F:\kit\Rainbell0\05-Journal\01-个人发展建议.md`
+- `F:\kit\Rainbell0\05-Journal\02-大二下学期规划与时间安排.md`
+
+## Implementation Guidelines
+1. Scan the entire directory structure before creating new content
+2. Create only one file/folder at a time
+3. Follow the established naming conventions
+4. Respect the existing organizational hierarchy
+

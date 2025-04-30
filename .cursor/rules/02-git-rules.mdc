@@ -1,0 +1,39 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Git Operation Rules
+
+## Version Control Guidelines
+
+1. Before any commit or push operations:
+   - Execute `git add .` to stage all changes
+   - Review staged changes if necessary
+
+2. Remote Repository:
+   - Primary remote: `git@github.com:SAMLAY-c/Economics-sub-notes.git`
+   - Default branch: `main`
+
+3. Commit Process:
+   - Use descriptive commit messages
+   - Format: `git commit -m "descriptive message"`
+   - Push to remote: `git push origin main` (or relevant branch)
+
+## Ignored Files
+Based on existing .gitignore configurations:
+
+1. System files:
+   - `.DS_Store`
+   - `.obsidian/`
+
+2. Document files:
+   - `*.pdf`
+   - `*.ppt`
+
+## Best Practices
+1. Commit frequently with meaningful messages
+2. Push changes regularly to maintain synchronization
+3. Follow the established .gitignore rules
+4. Verify successful push operations
+

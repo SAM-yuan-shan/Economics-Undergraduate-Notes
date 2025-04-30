@@ -31,4 +31,10 @@ desktop.ini
 # Ignore all PDF and PPT files globally
 *.pdf
 *.ppt
-*.pptx 
+*.pptx
+
+# Ignore all zip files
+*.zip
+
+# Ignore specific zip file
+02-Areas/01-学习/02-毛概/obsidian-mb-0.8.zip 

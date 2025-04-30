@@ -1,5 +1,38 @@
-# Cursor 使用指南
+## 切换cursor模式
 
+![image.png](https://raw.githubusercontent.com/SAMLAY-c/obsidian-photos/university/img/20250429173425258.png)
++ ask：正常的ai回答，
++ agent：ai可以直接填写进笔记【ctrl+L】
+## 切换cursor-AI
++ ![image.png](https://raw.githubusercontent.com/SAMLAY-c/obsidian-photos/university/img/20250429173637704.png)
+- thinking 表示为推理模型，说明会像deepsekr1一样长思考
+	- 推荐模型，gemni-2.5-pro【max需要付费】
+## 免费使用额度为50次，更新方法如下
+### 工具
+#### 1.无限邮箱【后期如果收不到消息，则切换到谷歌邮箱】
+账号：sfrerteeww@2925.com
+密码：Zhiailqx322@
+- 使用方法：可以在@前面随便添加字母，比如sfrerteewwsdsfsf@2925.com
+;sfrerteewwssfrhytu@2925.com;会把邮箱信息都发送到sfrerteeww@2925.com
+#### 2.github开源工具 cursor-free
+- 使用方法：
+-  ❗ 备注 |注意事項
+
+[github项目原文](https://github.com/yeongpin/cursor-free-vip#-note--%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)
+📝 配置 |文件配置`Win / Macos / Linux Path | 路徑 [Documents/.cursor-free-vip/config.ini]`
+**⭐ 配置 |文件配置**
+- 使用管理员权限运行脚本  
+    請使用管理員身份運行腳本
+- 在运行脚本  
+    之前确认 Cursor 已关闭
+
+### 使用方法
+1. 点击cursor的设置，先删除账号，然后退出
+	1. ![image.png](https://raw.githubusercontent.com/SAMLAY-c/obsidian-photos/university/img/20250429183515232.png)
+
+2. 使用下文提到开源工具，重置机器码
+3. 登录https://cursor.com/settings；使用无限邮箱【使用方法如下】注册
+4. 登录打开cursor 登录
 ## 让 Cursor 协助处理开源项目信息
 
 如果你想让 Cursor 帮助你整理某个开源项目的信息，并将其直接添加到指定的文档中，你可以这样指示：
@@ -132,32 +165,3 @@
 
 
 ## 解决 Cursor 重置进程错误
-
-当你遇到 "重置进程错误: 文件未找到" 的问题时，这通常表明 Cursor 的某些核心文件丢失或损坏。以下是解决此问题的步骤：
-
-### 1. 检查文件路径
-- 确认 `F:\kit\AI\Cursor\out\vs\workbench\workbench.desktop.main.js` 文件是否存在
-- 如果路径不正确，请检查 Cursor 的实际安装位置
-
-### 2. 解决方案
-
-#### 方法一：重新安装 Cursor
-1. 完全卸载当前版本的 Cursor
-2. 删除安装目录下的所有文件
-3. 重新下载并安装最新版本的 Cursor
-
-#### 方法二：修复安装
-1. 关闭 Cursor
-2. 删除 `%APPDATA%\Cursor` 目录（Windows）或 `~/Library/Application Support/Cursor`（Mac）
-3. 重新启动 Cursor
-
-#### 方法三：检查系统权限
-1. 确保你有足够的权限访问安装目录
-2. 以管理员身份运行 Cursor
-
-### 3. 预防措施
-- 定期备份 Cursor 的配置文件
-- 避免手动修改 Cursor 的核心文件
-- 保持 Cursor 更新到最新版本
-
-如果以上方法都无法解决问题，建议联系 Cursor 官方支持或在 GitHub 上提交 issue。

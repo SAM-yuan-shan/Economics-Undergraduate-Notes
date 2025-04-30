@@ -1,0 +1,50 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Terminal Operation Rules
+
+## PowerShell Commands Priority
+
+1. File Operations:
+   - Create: `New-Item -Path <path> -ItemType File/Directory`
+   - Write: `Set-Content -Path <path> -Value <content>`
+   - Read: `Get-Content -Path <path>`
+   - Remove: `Remove-Item -Path <path>`
+
+2. Command Guidelines:
+   - Prefer PowerShell native commands over Unix-style commands
+   - Execute one operation per command
+   - Use full parameter names for clarity
+   - Implement error handling when necessary
+
+## Environment Information
+
+1. System Details:
+   - OS: Windows 10 (win32 10.0.26100)
+   - Shell: C:\Program Files\PowerShell\7\pwsh.exe
+   - Workspace: F:\kit\Rainbell0
+
+2. Path Conventions:
+   - Use Windows path format with backslashes
+   - Escape special characters in paths
+   - Use absolute paths when necessary for clarity
+
+## Best Practices
+
+1. Command Structure:
+   - Keep commands simple and focused
+   - Use appropriate parameters
+   - Include error handling for critical operations
+
+2. Directory Navigation:
+   - Use `Set-Location` (cd) with full paths
+   - Verify current location before operations
+   - Maintain workspace context
+
+3. File Management:
+   - Follow PARA system structure
+   - Use numerical prefixes for new items
+   - Verify operations before execution
+
