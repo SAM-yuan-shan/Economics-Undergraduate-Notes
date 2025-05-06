@@ -18,6 +18,8 @@
 6. 项目实践（项目流程、行业应用、案例研究）
 
 ## 学习资源
+youtube
+
 - 参考教材：《Python for Data Analysis》、《统计学》、《商业分析》等
 - 在线平台：Coursera、DataCamp、Kaggle等
 - 开源库：Pandas、NumPy、Matplotlib、Seaborn等
