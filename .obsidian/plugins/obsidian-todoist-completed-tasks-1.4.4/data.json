@@ -1,0 +1,9 @@
+{
+  "settingsVersion": 4,
+  "keywordSegmentStart": "%% 干炒牛河 %%",
+  "keywordSegmentEnd": "%% 别具一格 %%",
+  "authToken": "83b896c9c413752ab7ac61e57c797d40a12b1a7f",
+  "taskPrefix": "- [x]",
+  "taskPostfix": "<span style=\"color:green; font-size:10px\">- {task_finish_datetime}</span>",
+  "renderSubtasks": true
+}
