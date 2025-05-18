@@ -51,5 +51,14 @@
       ],
       "key": "ArrowLeft"
     }
-  ]
+  ],
+  "templater-obsidian:create-06-Templates/添加时间日志条目.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "Enhanced-editing:shanchu-text": []
 }

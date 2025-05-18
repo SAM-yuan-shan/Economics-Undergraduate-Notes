@@ -19,12 +19,21 @@
       "template": ""
     }
   ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "06-Templates/添加时间日志条目.md"
   ],
   "startup_templates": [
     "06-Templates/startup-scripts/auto-open-weekly-note.js"
   ],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }
