@@ -109,15 +109,14 @@
   ],
   "macros": [
     {
-      "name": "打开任务面板",
-      "id": "e8c5951d-5def-4d6f-8511-1e5bd1f303b2",
+      "name": "Open Today's Daily Note",
+      "id": "3ce96d91-f730-4640-9799-3195e00a10b3",
       "commands": [
         {
-          "name": "test",
-          "type": "UserScript",
-          "id": "62ff79ae-122e-49dc-a491-b10c8e6fa7f2",
-          "path": "40 - Obsidian/脚本/QuickAdd/test.js",
-          "settings": {}
+          "name": "Periodic Notes: Open daily note",
+          "type": "Obsidian",
+          "id": "f91cbbb7-4a4c-414b-8666-936bdbebfb99",
+          "commandId": "periodic-notes:open-daily-note"
         }
       ],
       "runOnStartup": false

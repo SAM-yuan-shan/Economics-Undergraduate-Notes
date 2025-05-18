@@ -1,12 +1,4 @@
 {
-  "quickadd:runQuickAdd": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
   "editor:set-heading-1": [
     {
       "modifiers": [],
@@ -60,5 +52,66 @@
       "key": "S"
     }
   ],
-  "Enhanced-editing:shanchu-text": []
+  "Enhanced-editing:shanchu-text": [],
+  "templater-obsidian:create-06-Templates/01添加时间日志条目.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "Enhanced-editing:internal-link": [],
+  "Enhanced-editing:xieti-text": [],
+  "templater-obsidian:06-Templates/0402 Todo waiting-for.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "Enhanced-editing:cuti-text": [],
+  "templater-obsidian:06-Templates/0404 Todo next-action.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "Enhanced-editing:add-daima": [],
+  "templater-obsidian:create-06-Templates/02添加想法.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:06-Templates/0401 todo inbox.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "templater-obsidian:06-Templates/0403 Todo someday-maybe.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:06-Templates/0405 todo.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "Enhanced-editing:internal-link2": []
 }

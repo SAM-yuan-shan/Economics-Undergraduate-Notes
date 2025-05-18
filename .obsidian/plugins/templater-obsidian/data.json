@@ -29,7 +29,13 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "06-Templates/添加时间日志条目.md"
+    "06-Templates/01添加时间日志条目.md",
+    "06-Templates/02添加想法.md",
+    "06-Templates/0401 todo inbox.md",
+    "06-Templates/0402 Todo waiting-for.md",
+    "06-Templates/0403 Todo someday-maybe.md",
+    "06-Templates/0404 Todo next-action.md",
+    "06-Templates/0405 todo.md"
   ],
   "startup_templates": [
     "06-Templates/startup-scripts/auto-open-weekly-note.js"
