@@ -25,18 +25,10 @@ energy: # 1-5 (或其他范围)
 ## 新增任务
 
 
-## 📅 近期任务列表 (Tasks 插件) (最多20条)
-```tasks
-
-not done
-
-has due date
-
-sort by due asc
-
-limit 20
-
+```dataviewjs
+await dv.view("日历", {pages: "", view: "month", firstDayOfWeek: "1", options: "style4 navi noHead", globalfilter: "task",})
 ```
+
 ## ⏰ 时间日志
 
 > [!tip] 时间记录

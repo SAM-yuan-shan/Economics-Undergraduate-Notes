@@ -229,12 +229,22 @@
       "01-Projects/英语": "",
       "01-Projects/经济法/0-学案": "",
       "01-Projects/经济法/1-课堂笔记": "",
-      "01-Projects/经济法/2-自学笔记": "",
+      "01-Projects/经济法/2-自学笔记": "经济法",
       "01-Projects/统计学/0_网-录音": "",
       "01-Projects/统计学/2-自学笔记": "",
       "01-Projects/统计学/1-课堂笔记": "",
       "01-Projects/统计学/3-练习": "",
-      "01-Projects/英语/单词笔记": "考研英语单词"
+      "01-Projects/英语/单词笔记": "考研英语单词",
+      "01-Projects/02-数学竞赛": "",
+      "01-Projects/经济法/1-讲稿": "",
+      "01-Projects/经济法/3-课堂笔记": "",
+      "01-Projects/02-数学竞赛/01课堂笔记": "",
+      "01-Projects/02-数学竞赛/00资料": "",
+      "01-Projects/02-数学竞赛/02 公式汇总": "",
+      "01-Projects/02-数学竞赛/02 做题心得": "",
+      "01-Projects/02-数学竞赛/00资料/初赛试题（按届数）": "",
+      "01-Projects/02-数学竞赛/00资料/题型分类（更新中）": "",
+      "01-Projects/02-数学竞赛/00资料/决赛试题（按届数）": ""
     },
     "FOLDER_TAGS": {
       "01-Projects": "",
@@ -445,7 +455,17 @@
       "01-Projects/统计学/2-自学笔记": "",
       "01-Projects/统计学/1-课堂笔记": "",
       "01-Projects/统计学/3-练习": "",
-      "01-Projects/英语/单词笔记": ""
+      "01-Projects/英语/单词笔记": "",
+      "01-Projects/02-数学竞赛": "",
+      "01-Projects/经济法/1-讲稿": "",
+      "01-Projects/经济法/3-课堂笔记": "",
+      "01-Projects/02-数学竞赛/01课堂笔记": "",
+      "01-Projects/02-数学竞赛/00资料": "",
+      "01-Projects/02-数学竞赛/02 公式汇总": "",
+      "01-Projects/02-数学竞赛/02 做题心得": "",
+      "01-Projects/02-数学竞赛/00资料/初赛试题（按届数）": "",
+      "01-Projects/02-数学竞赛/00资料/题型分类（更新中）": "",
+      "01-Projects/02-数学竞赛/00资料/决赛试题（按届数）": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -857,7 +877,7 @@
     "01-Projects/01-竞赛项目/01-安永ESG竞赛/00-管理与总览/README.md": "16c03be0a7c37607075f423f25efa11a",
     "01-Projects/01-竞赛项目/01-安永ESG竞赛/00-管理与总览/02-分工.md": "426eab0e94a2af145f4e8b733dc11376",
     "01-Projects/00-Git项目维护.md": "d25b754064a67979811604f597192b67",
-    "00-待办事项.md": "a371b9c2b3dd8342715f36d549497cf6",
+    "00-待办事项.md": "5f016329f752d071c03ee6a7959678f9",
     "00-PARA系统中心.md": "6df487aaffb65e41321ab8d5184d7d02",
     "02-Areas/01-学习/04-统计学/03-自学笔记/2.md": "b73488723b3a00a850cd5c150b9c8b7f",
     "02-Areas/01-学习/04-统计学/03-自学笔记/03-统计学基本概念-笔记.md": "fc30b4e614294e9e97c24b128a4be6d9",
@@ -980,13 +1000,18 @@
     "01-Projects/统计学/0_网-录音/17-思维导图.md": "cdcf5cfb3b620720577f426d50683bf3",
     "01-Projects/统计学/3-练习/13.md": "1e405dbd71008f97fb59de06fee05dba",
     "01-Projects/英语/单词笔记/31.md": "a387284b7fb188b19f5ed8e4435a25e0",
-    "05-Journal/Daily/2025年05月19日.md": "422d1270690a1a581ee33001e003e57a",
+    "05-Journal/Daily/2025年05月19日.md": "9c0c1eae92c5510ae35cfdf225ae0363",
     "01-Projects/02-数学竞赛/00资料/视频.md": "192a80b9b8015817624a039c24bc0bba",
     "01-Projects/02-数学竞赛/02 公式汇总/极限专题-公式汇总.md": "af75421e09d1ebdbe4e84783dbe23754",
     "01-Projects/02-数学竞赛/02 做题心得/极限专题-做题心得.md": "e8567e8f2cb82b509cd508bc63302c95",
     "01-Projects/02-数学竞赛/01课堂笔记/极限专题.md": "3d06623e11dd5ad64bbfb01e6f5510ee",
     "05-Journal/Daily/Untitled 3.md": "d41d8cd98f00b204e9800998ecf8427e",
-    "05-Journal/Daily/Untitled 2.md": "d41d8cd98f00b204e9800998ecf8427e"
+    "05-Journal/Daily/Untitled 2.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "01-Projects/经济法/1-讲稿/35.md": "533de1b2f337691d05148b9b7b4d98bf",
+    "01-Projects/经济法/1-讲稿/31.md": "17b58bd4426635f09be58d465c530f64",
+    "01-Projects/经济法/1-讲稿/29.md": "9a8d9c2c4d98f4d1ab5d419b4a7e0e39",
+    "01-Projects/经济法/1-讲稿/27.md": "ac42e268f509a3deb93896afbb230970",
+    "01-Projects/经济法/2-自学笔记/5.1.0.md": "d41d8cd98f00b204e9800998ecf8427e"
   },
   "fields_dict": {
     "Basic": [
