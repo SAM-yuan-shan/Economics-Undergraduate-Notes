@@ -1,36 +1,152 @@
 {
   "recentFiles": [
     {
-      "basename": "template-daily",
-      "path": "06-Templates/template-daily.md"
-    },
-    {
-      "basename": "SQL数据分析学习指南：从入门到面试通关",
-      "path": "01-Projects/0-sql/SQL数据分析学习指南：从入门到面试通关.md"
-    },
-    {
-      "basename": "8-",
-      "path": "01-Projects/统计学/0_网-录音/8-.md"
-    },
-    {
-      "basename": "2025年05月18日",
-      "path": "05-Journal/Daily/2025年05月18日.md"
+      "basename": "极限专题-公式汇总",
+      "path": "01-Projects/02-数学竞赛/02 公式汇总/极限专题-公式汇总.md"
     },
     {
       "basename": "00-PARA系统中心",
       "path": "00-PARA系统中心.md"
     },
     {
-      "basename": "0-快捷键",
-      "path": "000-插件/0-快捷键.md"
-    },
-    {
       "basename": "00-GTD使用",
       "path": "00-GTD使用.md"
     },
     {
+      "basename": "极限专题",
+      "path": "01-Projects/02-数学竞赛/01课堂笔记/极限专题.md"
+    },
+    {
+      "basename": "2025年05月19日",
+      "path": "05-Journal/Daily/2025年05月19日.md"
+    },
+    {
+      "basename": "00-待办事项",
+      "path": "00-待办事项.md"
+    },
+    {
+      "basename": "极限专题-做题心得",
+      "path": "01-Projects/02-数学竞赛/02 做题心得/极限专题-做题心得.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "05-Journal/Daily/Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "05-Journal/Daily/Untitled 3.md"
+    },
+    {
+      "basename": "0-快捷键",
+      "path": "000-插件/0-快捷键.md"
+    },
+    {
+      "basename": "视频",
+      "path": "01-Projects/02-数学竞赛/00资料/视频.md"
+    },
+    {
+      "basename": "不定积分专题",
+      "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/不定积分专题.pdf"
+    },
+    {
+      "basename": "定积分专题",
+      "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/定积分专题.pdf"
+    },
+    {
+      "basename": "初始版视频题目（早期）",
+      "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/初始版视频题目（早期）.pdf"
+    },
+    {
+      "basename": "初始版视频手写版答案",
+      "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/初始版视频手写版答案.pdf"
+    },
+    {
+      "basename": "template-daily",
+      "path": "06-Templates/template-daily.md"
+    },
+    {
+      "basename": "31",
+      "path": "01-Projects/英语/单词笔记/31.md"
+    },
+    {
+      "basename": "10",
+      "path": "01-Projects/英语/单词笔记/10.md"
+    },
+    {
+      "basename": "13",
+      "path": "01-Projects/统计学/3-练习/13.md"
+    },
+    {
+      "basename": "13",
+      "path": "01-Projects/统计学/0_网-录音/13.md"
+    },
+    {
+      "basename": "13-思维导图",
+      "path": "01-Projects/统计学/0_网-录音/13-思维导图.md"
+    },
+    {
+      "basename": "34.0",
+      "path": "01-Projects/统计学/2-自学笔记/34.0.md"
+    },
+    {
+      "basename": "17-思维导图",
+      "path": "01-Projects/统计学/0_网-录音/17-思维导图.md"
+    },
+    {
+      "basename": "2025年04月26日",
+      "path": "05-Journal/Daily/2025年04月26日.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01-Projects/统计学/未命名.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "05-Journal/Daily/Untitled.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "05-Journal/Daily/Untitled 1.md"
+    },
+    {
+      "basename": "2025年05月18日",
+      "path": "05-Journal/Daily/2025年05月18日.md"
+    },
+    {
+      "basename": "SQL数据分析学习指南：从入门到面试通关",
+      "path": "01-Projects/0-sql/SQL数据分析学习指南：从入门到面试通关.md"
+    },
+    {
+      "basename": "17",
+      "path": "01-Projects/统计学/0_网-录音/17.md"
+    },
+    {
+      "basename": "34",
+      "path": "01-Projects/统计学/0_网-录音/34.md"
+    },
+    {
+      "basename": "8-",
+      "path": "01-Projects/统计学/0_网-录音/8-.md"
+    },
+    {
+      "basename": "1",
+      "path": "01-Projects/统计学/0_网-录音/1.md"
+    },
+    {
+      "basename": "5.2.1 破产原因",
+      "path": "01-Projects/经济法/2-自学笔记/5.2.1 破产原因.md"
+    },
+    {
+      "basename": "5.2.0 破产申请的受理",
+      "path": "01-Projects/经济法/2-自学笔记/5.2.0 破产申请的受理.md"
+    },
+    {
       "basename": "05 第五章 企业破产法",
       "path": "01-Projects/经济法/0-学案/05 第五章 企业破产法.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "000-插件/Untitled 1.md"
     },
     {
       "basename": "0405 todo",
@@ -51,10 +167,6 @@
     {
       "basename": "0401 todo inbox",
       "path": "06-Templates/0401 todo inbox.md"
-    },
-    {
-      "basename": "00-待办事项",
-      "path": "00-待办事项.md"
     },
     {
       "basename": "Untitled",
@@ -83,94 +195,6 @@
     {
       "basename": "25",
       "path": "02-Areas/英语/1_语法/1_讲稿/25.md"
-    },
-    {
-      "basename": "26",
-      "path": "02-Areas/英语/1_语法/1_讲稿/26.md"
-    },
-    {
-      "basename": "29",
-      "path": "02-Areas/英语/1_语法/1_讲稿/29.md"
-    },
-    {
-      "basename": "32",
-      "path": "02-Areas/英语/1_语法/1_讲稿/32.md"
-    },
-    {
-      "basename": "33",
-      "path": "02-Areas/英语/1_语法/1_讲稿/33.md"
-    },
-    {
-      "basename": "01",
-      "path": "02-Areas/英语/1_语法/1_讲稿/01.md"
-    },
-    {
-      "basename": "02添加想法",
-      "path": "06-Templates/02添加想法.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "000-插件/Untitled.md"
-    },
-    {
-      "basename": "01添加时间日志条目",
-      "path": "06-Templates/01添加时间日志条目.md"
-    },
-    {
-      "basename": "template-weekly",
-      "path": "06-Templates/template-weekly.md"
-    },
-    {
-      "basename": "template-quarterly",
-      "path": "06-Templates/template-quarterly.md"
-    },
-    {
-      "basename": "template-monthly",
-      "path": "06-Templates/template-monthly.md"
-    },
-    {
-      "basename": "2025年04月26日",
-      "path": "05-Journal/Daily/2025年04月26日.md"
-    },
-    {
-      "basename": "1.4第四章 价值（基本面）投资分析_compressed",
-      "path": "02-Areas/01-学习/05-投资学/01-教材资料/1.4第四章 价值（基本面）投资分析_compressed.pdf"
-    },
-    {
-      "basename": "课后习题库",
-      "path": "02-Areas/01-学习/05-投资学/01-教材资料/课后习题库.pdf"
-    },
-    {
-      "basename": "投资学原理及应用  第4版 贺显南",
-      "path": "02-Areas/01-学习/05-投资学/01-教材资料/投资学原理及应用  第4版 贺显南.pdf"
-    },
-    {
-      "basename": "ch8-假设检验2",
-      "path": "02-Areas/01-学习/04-统计学/01-教材资料/ch8-假设检验2.pdf"
-    },
-    {
-      "basename": "ch9分类数据分析",
-      "path": "02-Areas/01-学习/04-统计学/01-教材资料/ch9分类数据分析.pdf"
-    },
-    {
-      "basename": "ch8-假设检验1",
-      "path": "02-Areas/01-学习/04-统计学/01-教材资料/ch8-假设检验1.pdf"
-    },
-    {
-      "basename": "07",
-      "path": "01-Projects/03-实习申请/02-跨境电商/上课/07.md"
-    },
-    {
-      "basename": "001",
-      "path": "01-Projects/03-实习申请/00-市场调研/001.md"
-    },
-    {
-      "basename": "第四章 产权理论",
-      "path": "第四章 产权理论.md"
-    },
-    {
-      "basename": "第七章 制度变迁与经济发展",
-      "path": "第七章 制度变迁与经济发展.md"
     }
   ],
   "omittedPaths": [],

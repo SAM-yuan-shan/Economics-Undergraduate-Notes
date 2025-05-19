@@ -37,31 +37,31 @@
     },
     {
       "id": "97a76d67-7e9b-4971-99e5-fdf0a5bdd1ee",
-      "name": "添加任务到收件箱",
+      "name": "添加到每日日记的新增任务",
       "type": "Capture",
       "command": false,
       "appendLink": false,
-      "captureTo": "40 - Obsidian/侧边栏/收件箱.md",
+      "captureTo": "05-Journal/Daily/{{DATE:yyyy年MM月DD日}}.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "06-Templates/template-daily.md"
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "- {{VALUE}}"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
+        "enabled": true,
+        "after": "## 新增任务",
         "insertAtEnd": false,
         "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
       },
       "prepend": false,
-      "task": true,
+      "task": false,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
@@ -131,7 +131,7 @@
   "enableRibbonIcon": false,
   "ai": {
     "defaultModel": "Ask me",
-    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\\text{new}}:=w_{ij}^{\\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \\\"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\\\" inline.\",",
     "promptTemplatesFolderPath": "",
     "showAssistant": true,
     "providers": [

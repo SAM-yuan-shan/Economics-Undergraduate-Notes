@@ -529,13 +529,55 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01-Projects/02-证书考试/02-财会证书/初会/经济法/冲刺0401.md",
+                    "file": "01-Projects/经济法/0-学案/05 第五章 企业破产法.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "冲刺0401"
+                  "title": "05 第五章 企业破产法"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ceea7d4ed8770dbf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2ab443ef5922b5cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Projects/经济法/2-自学笔记/5.2.0 破产申请的受理.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "5.2.0 破产申请的受理"
+                }
+              }
+            ]
+          },
+          {
+            "id": "44f652bc13f40130",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bbc17045ed17a7cd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Projects/经济法/2-自学笔记/5.2.1 破产原因.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "5.2.1 破产原因"
                 }
               }
             ]
@@ -765,6 +807,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "daily-notes:打开/创建今天的日记": false,
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
           "canvas:新建白板": false,
@@ -779,9 +822,691 @@
           "periodic-notes:Open today": false
         }
       },
-      "active": "be29ace6bca55379",
-      "mtime": "2025-05-07T15:31:11+03:00"
+      "active": "bbc17045ed17a7cd",
+      "mtime": "2025-05-18T12:42:37+03:00"
+    },
+    "统计学": {
+      "main": {
+        "id": "3bb12d470fcd0291",
+        "type": "split",
+        "children": [
+          {
+            "id": "3aeadeab3393bc59",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0809a927a8d61469",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Projects/统计学/0_网-录音/13.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "13"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fe25bc8fa7ef24ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "172eca235d7c522e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Projects/统计学/0_网-录音/13-思维导图.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "13-思维导图"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4ea6b35d0468ea2d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33775a56ee83797c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Projects/统计学/2-自学笔记/34.0.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "34.0"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "64e5df844da43397",
+        "type": "split",
+        "children": [
+          {
+            "id": "404b714244a12346",
+            "type": "tabs",
+            "dimension": 74.09326424870467,
+            "children": [
+              {
+                "id": "7408259d9b92b5f4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "42aa1a006d235dd3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "跨境",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "d93a4de301259984",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "8272141efb832576",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000-插件/0-快捷键.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "0-快捷键"
+                }
+              }
+            ]
+          },
+          {
+            "id": "98f0d4a0722ccaa3",
+            "type": "tabs",
+            "dimension": 25.906735751295336,
+            "children": [
+              {
+                "id": "a2ea7e19451c5b4f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "324c0b9d83c44a19",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "05-Journal/Daily/2025年04月26日.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "2025年04月26日 的大纲"
+                }
+              },
+              {
+                "id": "98695456d98030ce",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "61191f8ea8fb7606",
+        "type": "split",
+        "children": [
+          {
+            "id": "4294f9e389e0008a",
+            "type": "tabs",
+            "dimension": 75.49019607843137,
+            "children": [
+              {
+                "id": "daab13b727614ae3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Areas/01-学习/04-统计学/01-教材资料/28.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "28"
+                }
+              },
+              {
+                "id": "6a832ca82093710a",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://kimi.moonshot.cn/chat/d06toimn3mkctj542uj0",
+                    "title": "社会资本概念详解 - Kimi",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "社会资本概念详解 - Kimi"
+                }
+              },
+              {
+                "id": "6ad73b7dcf2a71b6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "03-Resources/03-工具/04-Github/01-Obsidian 配置 GitHub 图床指南.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "01-Obsidian 配置 GitHub 图床指南 的反向链接列表"
+                }
+              },
+              {
+                "id": "46b54befe5ed140b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "ddb08c5f6587e6f6",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo List"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "4fce416981e6cec9",
+            "type": "tabs",
+            "dimension": 24.50980392156863,
+            "children": [
+              {
+                "id": "ff606f034166944b",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              },
+              {
+                "id": "2eb6db1a0dabc006",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              },
+              {
+                "id": "40d7cbe7945b1b5c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              },
+              {
+                "id": "4354bd31fa04df0e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:打开/创建今天的日记": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "templates:插入模板": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-memos:Thino": false,
+          "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+          "obsidian42-brat:BRAT": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "33775a56ee83797c",
+      "mtime": "2025-05-18T20:29:43+03:00"
+    },
+    "数学竞赛": {
+      "main": {
+        "id": "3bb12d470fcd0291",
+        "type": "split",
+        "children": [
+          {
+            "id": "f0e5f92eaaa0e983",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "94ff4d702aef9669",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Projects/02-数学竞赛/01课堂笔记/极限专题.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "极限专题"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e264baca67272a7c",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "7920c77382f4f97f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Projects/02-数学竞赛/02 公式汇总/极限专题-公式汇总.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "极限专题-公式汇总"
+                }
+              }
+            ]
+          },
+          {
+            "id": "57b44aaf263c50bd",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "07e8c7f0ea0c0424",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Projects/02-数学竞赛/02 公式汇总/极限专题-公式汇总.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "极限专题-公式汇总"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "64e5df844da43397",
+        "type": "split",
+        "children": [
+          {
+            "id": "404b714244a12346",
+            "type": "tabs",
+            "dimension": 74.09326424870467,
+            "children": [
+              {
+                "id": "7408259d9b92b5f4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "42aa1a006d235dd3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "跨境",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "d93a4de301259984",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "8272141efb832576",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000-插件/0-快捷键.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "0-快捷键"
+                }
+              }
+            ]
+          },
+          {
+            "id": "98f0d4a0722ccaa3",
+            "type": "tabs",
+            "dimension": 25.906735751295336,
+            "children": [
+              {
+                "id": "a2ea7e19451c5b4f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "324c0b9d83c44a19",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "05-Journal/Daily/2025年04月26日.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "2025年04月26日 的大纲"
+                }
+              },
+              {
+                "id": "98695456d98030ce",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "61191f8ea8fb7606",
+        "type": "split",
+        "children": [
+          {
+            "id": "4294f9e389e0008a",
+            "type": "tabs",
+            "dimension": 75.49019607843137,
+            "children": [
+              {
+                "id": "daab13b727614ae3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Areas/01-学习/04-统计学/01-教材资料/28.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "28"
+                }
+              },
+              {
+                "id": "6a832ca82093710a",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://kimi.moonshot.cn/chat/d06toimn3mkctj542uj0",
+                    "title": "社会资本概念详解 - Kimi",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "社会资本概念详解 - Kimi"
+                }
+              },
+              {
+                "id": "6ad73b7dcf2a71b6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "03-Resources/03-工具/04-Github/01-Obsidian 配置 GitHub 图床指南.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "01-Obsidian 配置 GitHub 图床指南 的反向链接列表"
+                }
+              },
+              {
+                "id": "46b54befe5ed140b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "ddb08c5f6587e6f6",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo List"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "4fce416981e6cec9",
+            "type": "tabs",
+            "dimension": 24.50980392156863,
+            "children": [
+              {
+                "id": "ff606f034166944b",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              },
+              {
+                "id": "2eb6db1a0dabc006",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              },
+              {
+                "id": "40d7cbe7945b1b5c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              },
+              {
+                "id": "4354bd31fa04df0e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:打开/创建今天的日记": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "templates:插入模板": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-memos:Thino": false,
+          "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+          "obsidian42-brat:BRAT": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "94ff4d702aef9669",
+      "mtime": "2025-05-19T03:21:55+08:00"
     }
   },
-  "active": "经济法冲刺"
+  "active": "数学竞赛"
 }
