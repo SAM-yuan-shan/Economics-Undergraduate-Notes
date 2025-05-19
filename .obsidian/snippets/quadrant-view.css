@@ -1,0 +1,178 @@
+/* 四象限时间管理布局 - 基于日历插件 */
+.tasksCalendar[view='week'].quadrant-style .grid {
+  grid-template-columns: repeat(2, 1fr); 
+  grid-template-rows: repeat(2, 1fr);
+  height: 600px !important;
+}
+
+/* 第一象限：重要且紧急 */
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(1) {
+  grid-area: 1 / 1 / 2 / 2;
+  border: 2px solid #e63946 !important;
+  position: relative;
+}
+
+/* 第二象限：重要不紧急 */
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(2) {
+  grid-area: 1 / 2 / 2 / 3;
+  border: 2px solid #457b9d !important;
+  position: relative;
+}
+
+/* 第三象限：紧急不重要 */
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(3) {
+  grid-area: 2 / 1 / 3 / 2;
+  border: 2px solid #f4a261 !important;
+  position: relative;
+}
+
+/* 第四象限：不紧急不重要 */
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(4) {
+  grid-area: 2 / 2 / 3 / 3; 
+  border: 2px solid #2a9d8f !important;
+  position: relative;
+}
+
+/* 隐藏多余的单元格 */
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(n+5) {
+  display: none;
+}
+
+/* 添加象限标题 */
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(1)::before {
+  content: "重要且紧急";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #e63946;
+  color: white;
+  padding: 2px 8px;
+  font-weight: bold;
+  border-bottom-right-radius: 5px;
+}
+
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(2)::before {
+  content: "重要不紧急";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #457b9d;
+  color: white;
+  padding: 2px 8px;
+  font-weight: bold;
+  border-bottom-right-radius: 5px;
+}
+
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(3)::before {
+  content: "紧急不重要";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #f4a261;
+  color: white;
+  padding: 2px 8px;
+  font-weight: bold;
+  border-bottom-right-radius: 5px;
+}
+
+.tasksCalendar[view='week'].quadrant-style .grid .cell:nth-child(4)::before {
+  content: "不紧急不重要";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #2a9d8f;
+  color: white;
+  padding: 2px 8px;
+  font-weight: bold;
+  border-bottom-right-radius: 5px;
+}
+
+/* 为不同象限的任务添加标识色 */
+.tasksCalendar[view='week'].quadrant-style .task[data-tag*="q1"],
+.tasksCalendar[view='week'].quadrant-style .cell:nth-child(1) .task {
+  border-left: 3px solid #e63946 !important;
+}
+
+.tasksCalendar[view='week'].quadrant-style .task[data-tag*="q2"],
+.tasksCalendar[view='week'].quadrant-style .cell:nth-child(2) .task {
+  border-left: 3px solid #457b9d !important;
+}
+
+.tasksCalendar[view='week'].quadrant-style .task[data-tag*="q3"],
+.tasksCalendar[view='week'].quadrant-style .cell:nth-child(3) .task {
+  border-left: 3px solid #f4a261 !important;
+}
+
+.tasksCalendar[view='week'].quadrant-style .task[data-tag*="q4"],
+.tasksCalendar[view='week'].quadrant-style .cell:nth-child(4) .task {
+  border-left: 3px solid #2a9d8f !important;
+}
+
+/* 为GTD任务类型添加视觉区分 */
+.tasksCalendar .task[data-tag*="todo/next-action"] {
+  background-color: rgba(76, 175, 80, 0.1) !important;
+}
+
+.tasksCalendar .task[data-tag*="todo/waiting-for"] {
+  background-color: rgba(255, 193, 7, 0.1) !important;
+}
+
+.tasksCalendar .task[data-tag*="todo/someday-maybe"] {
+  background-color: rgba(156, 39, 176, 0.1) !important;
+}
+
+.tasksCalendar .task[data-tag*="todo/inbox"] {
+  background-color: rgba(3, 169, 244, 0.1) !important;
+}
+
+/* 任务标签样式 */
+.tasksCalendar .task[data-tag*="todo/next-action"]::after {
+  content: "下一步";
+  font-size: 0.7em;
+  background: rgba(76, 175, 80, 0.2);
+  padding: 1px 4px;
+  border-radius: 3px;
+  margin-left: 5px;
+  color: rgba(76, 175, 80, 1);
+}
+
+.tasksCalendar .task[data-tag*="todo/waiting-for"]::after {
+  content: "等待中";
+  font-size: 0.7em;
+  background: rgba(255, 193, 7, 0.2);
+  padding: 1px 4px;
+  border-radius: 3px;
+  margin-left: 5px;
+  color: rgba(255, 152, 0, 1);
+}
+
+.tasksCalendar .task[data-tag*="todo/someday-maybe"]::after {
+  content: "将来";
+  font-size: 0.7em;
+  background: rgba(156, 39, 176, 0.2);
+  padding: 1px 4px;
+  border-radius: 3px;
+  margin-left: 5px;
+  color: rgba(156, 39, 176, 1);
+}
+
+.tasksCalendar .task[data-tag*="todo/inbox"]::after {
+  content: "收件箱";
+  font-size: 0.7em;
+  background: rgba(3, 169, 244, 0.2);
+  padding: 1px 4px;
+  border-radius: 3px;
+  margin-left: 5px;
+  color: rgba(3, 169, 244, 1);
+}
+
+/* 适应日历视图在同一页面的样式 */
+.quadrant-view .markdown-rendered h2 {
+  margin-top: 30px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 5px;
+}
+
+.quadrant-view .calendar-wrapper {
+  margin-bottom: 30px;
+} 

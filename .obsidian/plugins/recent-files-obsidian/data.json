@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025年05月18日",
+      "path": "05-Journal/Daily/2025年05月18日.md"
+    },
+    {
+      "basename": "02-四象限任务示例",
+      "path": "03-Resources/02-四象限任务示例.md"
+    },
+    {
       "basename": "2025年05月19日",
       "path": "05-Journal/Daily/2025年05月19日.md"
     },
@@ -125,10 +133,6 @@
       "path": "05-Journal/Daily/Untitled 1.md"
     },
     {
-      "basename": "2025年05月18日",
-      "path": "05-Journal/Daily/2025年05月18日.md"
-    },
-    {
       "basename": "SQL数据分析学习指南：从入门到面试通关",
       "path": "01-Projects/0-sql/SQL数据分析学习指南：从入门到面试通关.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "21",
       "path": "02-Areas/英语/1_语法/1_讲稿/21.md"
-    },
-    {
-      "basename": "25",
-      "path": "02-Areas/英语/1_语法/1_讲稿/25.md"
     }
   ],
   "omittedPaths": [],
