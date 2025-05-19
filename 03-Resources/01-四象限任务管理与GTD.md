@@ -69,12 +69,12 @@ await dv.view("日历/view", options)
 
 ### 完整格式（包含四象限和GTD标签）
 ```
-- [ ] 完成经济法报告 #task #todo/next-action #q1 ⏫ 📅 2023-06-15
+- [ ] 完成经济法报告 #task #todo/next-action #q1 ⏫
 ```
 
 ### 简化格式（优先级和日期）
 ```
-- [ ] 学习新章节 #todo/next-action ⏫ 📅 2023-07-15
+- [ ] 学习新章节 #todo/next-action ⏫
 ```
 
 ## 任务的常用属性
