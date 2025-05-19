@@ -1,5 +1,5 @@
 ---
-date: 2025-04-26  # 或者手动输入 YYYY-MM-DD
+date: 
 type: daily-note
 tags: [journal, daily]
 mood: # 😊 / 😐 / 😟 (或其他您喜欢的符号)

@@ -1,8 +1,13 @@
 {
   "pluginList": [
+    "Jamailar/QuickLink-Obsidian",
     "obsidian-canzi/Enhanced-editing"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "Jamailar/QuickLink-Obsidian",
+      "version": "latest"
+    },
     {
       "repo": "obsidian-canzi/Enhanced-editing",
       "version": "latest"
