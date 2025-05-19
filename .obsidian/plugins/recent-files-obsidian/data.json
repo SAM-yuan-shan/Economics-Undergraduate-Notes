@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2025年05月19日",
+      "path": "05-Journal/Daily/2025年05月19日.md"
+    },
+    {
+      "basename": "04-四象限与GTD任务示例",
+      "path": "03-Resources/04-四象限与GTD任务示例.md"
+    },
+    {
+      "basename": "00-改简历-项目概述",
+      "path": "01-Projects/07-改简历/00-改简历-项目概述.md"
+    },
+    {
+      "basename": "00-学习编程-项目概述",
+      "path": "01-Projects/08-学习编程/00-学习编程-项目概述.md"
+    },
+    {
       "basename": "00-待办事项",
       "path": "00-待办事项.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "000-插件/Untitled 2.md"
+    },
+    {
+      "basename": "0-快捷键",
+      "path": "000-插件/0-快捷键.md"
     },
     {
       "basename": "00-GTD使用",
@@ -13,20 +37,12 @@
       "path": "00-PARA系统中心.md"
     },
     {
-      "basename": "04-四象限与GTD任务示例",
-      "path": "03-Resources/04-四象限与GTD任务示例.md"
-    },
-    {
       "basename": "daily",
       "path": "06-Templates/daily.md"
     },
     {
       "basename": "项目日志模板",
       "path": "06-Templates/项目日志模板.md"
-    },
-    {
-      "basename": "0-快捷键",
-      "path": "000-插件/0-快捷键.md"
     },
     {
       "basename": "人际模板",
@@ -47,10 +63,6 @@
     {
       "basename": "0-思维导图",
       "path": "01-Projects/英语/作文笔记/0-思维导图.md"
-    },
-    {
-      "basename": "2025年05月19日",
-      "path": "05-Journal/Daily/2025年05月19日.md"
     },
     {
       "basename": "3向上管理：第二板块 - 观察",
@@ -187,10 +199,6 @@
     {
       "basename": "初始版视频题目（早期）",
       "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/初始版视频题目（早期）.pdf"
-    },
-    {
-      "basename": "初始版视频手写版答案",
-      "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/初始版视频手写版答案.pdf"
     }
   ],
   "omittedPaths": [],
