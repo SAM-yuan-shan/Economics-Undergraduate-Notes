@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "5.1 破产法概念及流程概述",
-      "path": "01-Projects/经济法/3-课堂笔记/5.1 破产法概念及流程概述.md"
+      "basename": "5.2",
+      "path": "01-Projects/01-经济法/3-课堂笔记/5.2.md"
     },
     {
-      "basename": "5.2.0 破产申请的受理",
-      "path": "01-Projects/经济法/2-自学笔记/5.2.0 破产申请的受理.md"
+      "basename": "5.3",
+      "path": "01-Projects/01-经济法/3-课堂笔记/5.3.md"
     },
     {
-      "basename": "5.2.1 破产原因",
-      "path": "01-Projects/经济法/2-自学笔记/5.2.1 破产原因.md"
+      "basename": "05 第五章 企业破产法",
+      "path": "01-Projects/01-经济法/0-学案/05 第五章 企业破产法.md"
     },
     {
-      "basename": "00-GTD使用",
-      "path": "00-GTD使用.md"
+      "basename": "5.3.2.1 债务人在一年前转移财产的行为无效【可以撤销】，在六个月内是可撤销{5+1个行为},都已经追回",
+      "path": "01-Projects/01-经济法/2-自学笔记/5.3.2.1 债务人在一年前转移财产的行为无效【可以撤销】，在六个月内是可撤销{5+1个行为},都已经追回.md"
     },
     {
       "basename": "2025年05月19日",
       "path": "05-Journal/Daily/2025年05月19日.md"
     },
     {
-      "basename": "05 第五章 企业破产法",
-      "path": "01-Projects/经济法/0-学案/05 第五章 企业破产法.md"
+      "basename": "3-财务分析比率",
+      "path": "01-Projects/06-财务管理学/0-公式/3-财务分析比率.md"
+    },
+    {
+      "basename": "5.2.1 破产原因",
+      "path": "01-Projects/01-经济法/2-自学笔记/5.2.1 破产原因.md"
+    },
+    {
+      "basename": "第2章",
+      "path": "01-Projects/06-财务管理学/0-公式/第2章.md"
+    },
+    {
+      "basename": "template-daily",
+      "path": "06-Templates/template-daily.md"
+    },
+    {
+      "basename": "5.1 破产法概念及流程概述",
+      "path": "01-Projects/01-经济法/3-课堂笔记/5.1 破产法概念及流程概述.md"
+    },
+    {
+      "basename": "5.1.0",
+      "path": "01-Projects/01-经济法/2-自学笔记/5.1.0.md"
+    },
+    {
+      "basename": "5.2.0 破产申请的受理",
+      "path": "01-Projects/01-经济法/2-自学笔记/5.2.0 破产申请的受理.md"
+    },
+    {
+      "basename": "0- 讲座：就这样写高分作文（告别模板）",
+      "path": "01-Projects/英语/作文笔记/0- 讲座：就这样写高分作文（告别模板）.md"
+    },
+    {
+      "basename": "0-思维导图",
+      "path": "01-Projects/英语/作文笔记/0-思维导图.md"
+    },
+    {
+      "basename": "1.简单句的满分句型 (3大句型，4小句型)",
+      "path": "01-Projects/英语/作文笔记/1.简单句的满分句型 (3大句型，4小句型).md"
+    },
+    {
+      "basename": "00-GTD使用",
+      "path": "00-GTD使用.md"
     },
     {
       "basename": "04-四象限与GTD任务示例",
@@ -43,14 +83,6 @@
     {
       "basename": "02-四象限任务示例",
       "path": "03-Resources/02-四象限任务示例.md"
-    },
-    {
-      "basename": "template-daily",
-      "path": "06-Templates/template-daily.md"
-    },
-    {
-      "basename": "5.1.0",
-      "path": "01-Projects/经济法/2-自学笔记/5.1.0.md"
     },
     {
       "basename": "极限专题-公式汇总",
@@ -167,30 +199,6 @@
     {
       "basename": "0405 todo",
       "path": "06-Templates/0405 todo.md"
-    },
-    {
-      "basename": "0404 Todo next-action",
-      "path": "06-Templates/0404 Todo next-action.md"
-    },
-    {
-      "basename": "0403 Todo someday-maybe",
-      "path": "06-Templates/0403 Todo someday-maybe.md"
-    },
-    {
-      "basename": "0402 Todo waiting-for",
-      "path": "06-Templates/0402 Todo waiting-for.md"
-    },
-    {
-      "basename": "0401 todo inbox",
-      "path": "06-Templates/0401 todo inbox.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "06-Templates/Untitled.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "06-Templates/Untitled 1.md"
     }
   ],
   "omittedPaths": [],
