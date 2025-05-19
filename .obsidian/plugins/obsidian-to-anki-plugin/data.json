@@ -246,7 +246,16 @@
       "01-Projects/02-数学竞赛/00资料/题型分类（更新中）": "",
       "01-Projects/02-数学竞赛/00资料/决赛试题（按届数）": "",
       "日历": "",
-      "01-Projects/经济法/1-网讲稿": ""
+      "01-Projects/经济法/1-网讲稿": "",
+      "01-Projects/06-财务管理学": "",
+      "01-Projects/01-经济法": "经济法",
+      "04-Archives/安永ESG": "",
+      "01-Projects/英语/作文笔记": "",
+      "01-Projects/06-财务管理学/0-公式": "",
+      "01-Projects/01-经济法/0-学案": "",
+      "01-Projects/01-经济法/2-自学笔记": "",
+      "01-Projects/01-经济法/3-课堂笔记": "",
+      "01-Projects/01-经济法/1-网讲稿": ""
     },
     "FOLDER_TAGS": {
       "01-Projects": "",
@@ -469,7 +478,16 @@
       "01-Projects/02-数学竞赛/00资料/题型分类（更新中）": "",
       "01-Projects/02-数学竞赛/00资料/决赛试题（按届数）": "",
       "日历": "",
-      "01-Projects/经济法/1-网讲稿": ""
+      "01-Projects/经济法/1-网讲稿": "",
+      "01-Projects/06-财务管理学": "",
+      "01-Projects/01-经济法": "",
+      "04-Archives/安永ESG": "",
+      "01-Projects/英语/作文笔记": "",
+      "01-Projects/06-财务管理学/0-公式": "",
+      "01-Projects/01-经济法/0-学案": "",
+      "01-Projects/01-经济法/2-自学笔记": "",
+      "01-Projects/01-经济法/3-课堂笔记": "",
+      "01-Projects/01-经济法/1-网讲稿": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -505,7 +523,7 @@
     "06-Templates/template-monthly.md": "ffc5a0d665592a003c477b43b1d5f596",
     "06-Templates/template-daily.md": "e4aa70ec4b2bc8fdcc1d9cc3f7c35572",
     "06-Templates/00-课堂模板/01-预习目标.md": "d4fee6ed14783a361d054a78f16ffe54",
-    "06-Templates/00-课堂模板/02-整理课堂笔记.md": "6c976c7ae254f3ded61d3fdc0dff0805",
+    "06-Templates/00-课堂模板/02-整理课堂笔记.md": "e9eb91a224f2fd07384433aeb1bab0e7",
     "05-Journal/Weekly/2025年18周记录.md": "746974a060efc43269d10a674cbc76bc",
     "05-Journal/02-大二下学期规划与时间安排.md": "3b68676f99c73c66cf6e2cc7e880e25b",
     "05-Journal/Daily/2025年04月29日.md": "c29c709ff415197ea09f8f682d3b5ba0",
@@ -1004,7 +1022,7 @@
     "01-Projects/统计学/0_网-录音/17-思维导图.md": "cdcf5cfb3b620720577f426d50683bf3",
     "01-Projects/统计学/3-练习/13.md": "1e405dbd71008f97fb59de06fee05dba",
     "01-Projects/英语/单词笔记/31.md": "a387284b7fb188b19f5ed8e4435a25e0",
-    "05-Journal/Daily/2025年05月19日.md": "f1f58115a81a7634f7a0e2ed8214ac03",
+    "05-Journal/Daily/2025年05月19日.md": "f487386a125463957a82428c642d45d2",
     "01-Projects/02-数学竞赛/00资料/视频.md": "192a80b9b8015817624a039c24bc0bba",
     "01-Projects/02-数学竞赛/02 公式汇总/极限专题-公式汇总.md": "af75421e09d1ebdbe4e84783dbe23754",
     "01-Projects/02-数学竞赛/02 做题心得/极限专题-做题心得.md": "e8567e8f2cb82b509cd508bc63302c95",
@@ -1030,7 +1048,7 @@
     "01-Projects/英语/作文笔记/0-思维导图.md": "f266ce5883fbf975b3794b45227ed595",
     "01-Projects/英语/作文笔记/1.简单句的满分句型 (3大句型，4小句型).md": "914487bc62415eabb8f66051ea5d2bd2",
     "01-Projects/经济法/3-课堂笔记/5.2.md": "d41d8cd98f00b204e9800998ecf8427e",
-    "01-Projects/06-财务管理学/0-公式/3-财务分析比率.md": "e1c760d372a05d7b8631f62f76f4cc31",
+    "01-Projects/06-财务管理学/0-公式/3-财务分析比率.md": "cff5f23b63eb47dc4d52d47b872e1076",
     "01-Projects/06-财务管理学/0-公式/第2章.md": "c44d9b21d6c820a19e008f8169b093c6",
     "01-Projects/01-经济法/1-网讲稿/35.md": "533de1b2f337691d05148b9b7b4d98bf",
     "01-Projects/01-经济法/1-网讲稿/31.md": "17b58bd4426635f09be58d465c530f64",
@@ -1043,9 +1061,13 @@
     "01-Projects/01-经济法/2-自学笔记/5.2.1 破产原因.md": "13c1c5ac6963763e6d569920ab85c068",
     "01-Projects/01-经济法/2-自学笔记/5.2.0 破产申请的受理.md": "17056fa40e82bbaf949cd01740c27a40",
     "01-Projects/01-经济法/0-学案/05 第五章 企业破产法.md": "6ac80bb14c924a3863e13f8d1295b615",
-    "01-Projects/01-经济法/0-学案/01学生第一章经济法基础知识.md": "3abeeaf43f3e4cac0e510f0f1a36ce22",
-    "01-Projects/01-经济法/3-课堂笔记/5.3.md": "f9ba552034f4261797674d1264d9d1e5",
-    "01-Projects/01-经济法/2-自学笔记/5.3.2.1 债务人在一年前转移财产的行为无效【可以撤销】，在六个月内是可撤销{5+1个行为},都已经追回.md": "01a0f65ef1aa86e7f391db9695ed7e01"
+    "01-Projects/01-经济法/0-学案/01学生第一章经济法基础知识.md": "09f896ae1a0ed209f4c66915824c28d2",
+    "01-Projects/01-经济法/3-课堂笔记/5.3.md": "d54754949392737b539110a46abeda17",
+    "01-Projects/01-经济法/2-自学笔记/5.3.2.1 债务人在一年前转移财产的行为无效【可以撤销】，在六个月内是可撤销{5+1个行为},都已经追回.md": "01a0f65ef1aa86e7f391db9695ed7e01",
+    "04-Archives/安永ESG/0-安永ESG初赛+复赛复盘.md": "b5d7ee65f0f96ec818c05c37f601e326",
+    "06-Templates/0项目复盘.md": "6782ca1c9cea9ca2cc712fbe65a408df",
+    "01-Projects/01-经济法/1-网讲稿/2.md": "014445cb6a8d7a137e7a5829d16859ea",
+    "01-Projects/01-经济法/4-练习/第一章.md": "ccf8c9f300b06de26e14966a75c52ad8"
   },
   "fields_dict": {
     "Basic": [

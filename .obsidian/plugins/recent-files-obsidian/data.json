@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2025年05月19日",
+      "path": "05-Journal/Daily/2025年05月19日.md"
+    },
+    {
+      "basename": "3-财务分析比率",
+      "path": "01-Projects/06-财务管理学/0-公式/3-财务分析比率.md"
+    },
+    {
+      "basename": "01学生第一章经济法基础知识",
+      "path": "01-Projects/01-经济法/0-学案/01学生第一章经济法基础知识.md"
+    },
+    {
+      "basename": "第一章",
+      "path": "01-Projects/01-经济法/4-练习/第一章.md"
+    },
+    {
+      "basename": "2",
+      "path": "01-Projects/01-经济法/1-网讲稿/2.md"
+    },
+    {
+      "basename": "02-整理课堂笔记",
+      "path": "06-Templates/00-课堂模板/02-整理课堂笔记.md"
+    },
+    {
       "basename": "5.3",
       "path": "01-Projects/01-经济法/3-课堂笔记/5.3.md"
     },
@@ -17,10 +41,6 @@
       "path": "06-Templates/0项目复盘.md"
     },
     {
-      "basename": "2025年05月19日",
-      "path": "05-Journal/Daily/2025年05月19日.md"
-    },
-    {
       "basename": "5.2.1 破产原因",
       "path": "01-Projects/01-经济法/2-自学笔记/5.2.1 破产原因.md"
     },
@@ -31,10 +51,6 @@
     {
       "basename": "5.3.2.1 债务人在一年前转移财产的行为无效【可以撤销】，在六个月内是可撤销{5+1个行为},都已经追回",
       "path": "01-Projects/01-经济法/2-自学笔记/5.3.2.1 债务人在一年前转移财产的行为无效【可以撤销】，在六个月内是可撤销{5+1个行为},都已经追回.md"
-    },
-    {
-      "basename": "3-财务分析比率",
-      "path": "01-Projects/06-财务管理学/0-公式/3-财务分析比率.md"
     },
     {
       "basename": "第2章",
@@ -183,22 +199,6 @@
     {
       "basename": "SQL数据分析学习指南：从入门到面试通关",
       "path": "01-Projects/0-sql/SQL数据分析学习指南：从入门到面试通关.md"
-    },
-    {
-      "basename": "17",
-      "path": "01-Projects/统计学/0_网-录音/17.md"
-    },
-    {
-      "basename": "34",
-      "path": "01-Projects/统计学/0_网-录音/34.md"
-    },
-    {
-      "basename": "8-",
-      "path": "01-Projects/统计学/0_网-录音/8-.md"
-    },
-    {
-      "basename": "1",
-      "path": "01-Projects/统计学/0_网-录音/1.md"
     }
   ],
   "omittedPaths": [],
