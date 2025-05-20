@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "大学考试",
+      "path": "04-Archives/学习/大学考试.md"
+    },
+    {
+      "basename": "00-待办事项",
+      "path": "00-待办事项.md"
+    },
+    {
+      "basename": "gitee",
+      "path": "02-Areas/02-编程学习/gitee.md"
+    },
+    {
+      "basename": "2023版毛概【微信公众号：欧选笔记】",
+      "path": "01-Projects/02-毛概/2023版毛概【微信公众号：欧选笔记】.pdf"
+    },
+    {
       "basename": "2025年05月19日",
       "path": "05-Journal/Daily/2025年05月19日.md"
+    },
+    {
+      "basename": "2025年05月20日",
+      "path": "05-Journal/Daily/2025年05月20日.md"
+    },
+    {
+      "basename": "毛概_重点",
+      "path": "01-Projects/02-毛概/毛概_重点.md"
+    },
+    {
+      "basename": "产权",
+      "path": "01-Projects/10-制度经济学/产权.md"
+    },
+    {
+      "basename": "产权理论与实践总结",
+      "path": "01-Projects/10-制度经济学/产权理论与实践总结.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01-Projects/统计学/4-课堂录音_转/未命名.md"
+    },
+    {
+      "basename": "数据概括性度量辨析",
+      "path": "01-Projects/统计学/4-课堂录音_转/数据概括性度量辨析.md"
+    },
+    {
+      "basename": "统计推断与参数估计核心概念及计算",
+      "path": "01-Projects/统计学/4-课堂录音_转/统计推断与参数估计核心概念及计算.md"
+    },
+    {
+      "basename": "统计检验与概率计算核心概念",
+      "path": "01-Projects/统计学/4-课堂录音_转/统计检验与概率计算核心概念.md"
+    },
+    {
+      "basename": "卡方检验",
+      "path": "01-Projects/统计学/4-课堂录音_转/卡方检验.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "02-Areas/01-人际管理/Untitled.md"
+    },
+    {
+      "basename": "0-安永ESG初赛+复赛复盘",
+      "path": "04-Archives/安永ESG/0-安永ESG初赛+复赛复盘.md"
+    },
+    {
+      "basename": "00-项目仪表盘",
+      "path": "00-项目仪表盘.md"
+    },
+    {
+      "basename": "00-GTD使用",
+      "path": "00-GTD使用.md"
+    },
+    {
+      "basename": "00-PARA系统中心",
+      "path": "00-PARA系统中心.md"
     },
     {
       "basename": "04-四象限与GTD任务示例",
@@ -17,24 +89,12 @@
       "path": "01-Projects/08-学习编程/00-学习编程-项目概述.md"
     },
     {
-      "basename": "00-待办事项",
-      "path": "00-待办事项.md"
-    },
-    {
       "basename": "Untitled 2",
       "path": "000-插件/Untitled 2.md"
     },
     {
       "basename": "0-快捷键",
       "path": "000-插件/0-快捷键.md"
-    },
-    {
-      "basename": "00-GTD使用",
-      "path": "00-GTD使用.md"
-    },
-    {
-      "basename": "00-PARA系统中心",
-      "path": "00-PARA系统中心.md"
     },
     {
       "basename": "daily",
@@ -47,10 +107,6 @@
     {
       "basename": "人际模板",
       "path": "06-Templates/人际模板.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "02-Areas/01-人际管理/Untitled.md"
     },
     {
       "basename": "template-daily",
@@ -113,10 +169,6 @@
       "path": "01-Projects/01-经济法/0-学案/05 第五章 企业破产法.md"
     },
     {
-      "basename": "0-安永ESG初赛+复赛复盘",
-      "path": "04-Archives/安永ESG/0-安永ESG初赛+复赛复盘.md"
-    },
-    {
       "basename": "0项目复盘",
       "path": "06-Templates/0项目复盘.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "5.2.0 破产申请的受理",
       "path": "01-Projects/01-经济法/2-自学笔记/5.2.0 破产申请的受理.md"
-    },
-    {
-      "basename": "0- 讲座：就这样写高分作文（告别模板）",
-      "path": "01-Projects/英语/作文笔记/0- 讲座：就这样写高分作文（告别模板）.md"
-    },
-    {
-      "basename": "2025年04月26日",
-      "path": "05-Journal/Daily/2025年04月26日.md"
-    },
-    {
-      "basename": "2025年05月18日",
-      "path": "05-Journal/Daily/2025年05月18日.md"
-    },
-    {
-      "basename": "02-四象限任务示例",
-      "path": "03-Resources/02-四象限任务示例.md"
-    },
-    {
-      "basename": "极限专题-公式汇总",
-      "path": "01-Projects/02-数学竞赛/02 公式汇总/极限专题-公式汇总.md"
-    },
-    {
-      "basename": "极限专题",
-      "path": "01-Projects/02-数学竞赛/01课堂笔记/极限专题.md"
-    },
-    {
-      "basename": "极限专题-做题心得",
-      "path": "01-Projects/02-数学竞赛/02 做题心得/极限专题-做题心得.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "05-Journal/Daily/Untitled 2.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "05-Journal/Daily/Untitled 3.md"
-    },
-    {
-      "basename": "视频",
-      "path": "01-Projects/02-数学竞赛/00资料/视频.md"
-    },
-    {
-      "basename": "不定积分专题",
-      "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/不定积分专题.pdf"
-    },
-    {
-      "basename": "定积分专题",
-      "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/定积分专题.pdf"
-    },
-    {
-      "basename": "初始版视频题目（早期）",
-      "path": "01-Projects/02-数学竞赛/00资料/题型分类（更新中）/初始版视频题目（早期）.pdf"
     }
   ],
   "omittedPaths": [],
