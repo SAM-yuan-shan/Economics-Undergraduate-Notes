@@ -529,13 +529,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01-Projects/经济法/0-学案/05 第五章 企业破产法.md",
+                    "file": "01-Projects/01-经济法/0-学案/01学生第一章经济法基础知识.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "05 第五章 企业破产法"
+                  "title": "01学生第一章经济法基础知识"
                 }
               }
             ]
@@ -550,13 +550,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01-Projects/经济法/2-自学笔记/5.2.0 破产申请的受理.md",
+                    "file": "01-Projects/01-经济法/0-学案/1-网讲稿/4无效的法律行为与可撤销法律行为 (续).md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "5.2.0 破产申请的受理"
+                  "title": "4无效的法律行为与可撤销法律行为 (续)"
                 }
               }
             ]
@@ -569,15 +569,10 @@
                 "id": "bbc17045ed17a7cd",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Projects/经济法/2-自学笔记/5.2.1 破产原因.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "5.2.1 破产原因"
+                  "title": "新标签页"
                 }
               }
             ]
@@ -807,6 +802,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "quicklink:Auto Link Scan / 自动扫描": false,
           "daily-notes:打开/创建今天的日记": false,
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
@@ -823,7 +819,7 @@
         }
       },
       "active": "bbc17045ed17a7cd",
-      "mtime": "2025-05-18T12:42:37+03:00"
+      "mtime": "2025-05-21T12:20:30+08:00"
     },
     "统计学": {
       "main": {

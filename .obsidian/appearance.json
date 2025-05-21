@@ -20,10 +20,11 @@
     "【侧边栏设置】rightlane setting",
     "【全宽页面】fullwidth",
     "【收件箱图标】收件箱icon",
-    "quadrant-view"
+    "quadrant-view",
+    "view"
   ],
   "cssTheme": "Things",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 17,
   "accentColor": "#f5c6c9",
   "showViewHeader": true
