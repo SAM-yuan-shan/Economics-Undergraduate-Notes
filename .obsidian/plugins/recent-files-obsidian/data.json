@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "00-待办事项",
+      "path": "00-待办事项.md"
+    },
+    {
+      "basename": "00-项目仪表盘",
+      "path": "00-项目仪表盘.md"
+    },
+    {
+      "basename": "38-指数",
+      "path": "01-Projects/统计学/0_网-录音/38-指数.md"
+    },
+    {
+      "basename": "13",
+      "path": "01-Projects/统计学/0_网-录音/13.md"
+    },
+    {
+      "basename": "34.0",
+      "path": "01-Projects/统计学/2-自学笔记/34.0.md"
+    },
+    {
+      "basename": "2025年05月21日",
+      "path": "05-Journal/Daily/2025年05月21日.md"
+    },
+    {
+      "basename": "25-2 有限合伙企业",
+      "path": "01-Projects/01-经济法/黄_讲稿/25-2 有限合伙企业.md"
+    },
+    {
+      "basename": "易混点",
+      "path": "易混点.md"
+    },
+    {
+      "basename": "03学生第3章",
+      "path": "01-Projects/01-经济法/0-学案/03学生第3章.md"
+    },
+    {
       "basename": "25-1  特殊的普通合伙企业",
       "path": "01-Projects/01-经济法/黄_讲稿/25-1  特殊的普通合伙企业.md"
     },
@@ -21,28 +57,8 @@
       "path": "01-Projects/01-经济法/2-自学笔记/3.3.md"
     },
     {
-      "basename": "25-2 有限合伙企业",
-      "path": "01-Projects/01-经济法/黄_讲稿/25-2 有限合伙企业.md"
-    },
-    {
-      "basename": "易混点",
-      "path": "易混点.md"
-    },
-    {
-      "basename": "03学生第3章",
-      "path": "01-Projects/01-经济法/0-学案/03学生第3章.md"
-    },
-    {
-      "basename": "讲稿",
-      "path": "讲稿.md"
-    },
-    {
       "basename": "3.2",
       "path": "01-Projects/01-经济法/2-自学笔记/3.2.md"
-    },
-    {
-      "basename": "2025年05月21日",
-      "path": "05-Journal/Daily/2025年05月21日.md"
     },
     {
       "basename": "3",
@@ -173,14 +189,6 @@
       "path": "01-Projects/01-经济法/1-网讲稿/35.md"
     },
     {
-      "basename": "00-项目仪表盘",
-      "path": "00-项目仪表盘.md"
-    },
-    {
-      "basename": "00-待办事项",
-      "path": "00-待办事项.md"
-    },
-    {
       "basename": "未命名",
       "path": "01-Projects/英语/长难句笔记/讲稿/未命名.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "大二下网课老师总结",
       "path": "01-Projects/大二下网课老师总结.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "01-Projects/06-财务管理学/0-公式/未命名 1.md"
-    },
-    {
-      "basename": "3-财务分析",
-      "path": "01-Projects/06-财务管理学/0-公式/3-财务分析.md"
     }
   ],
   "omittedPaths": [],
