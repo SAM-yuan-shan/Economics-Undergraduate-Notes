@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "听力",
+      "path": "01-Projects/英语/听力.md"
+    },
+    {
+      "basename": "0- 讲座：就这样写高分作文（告别模板）",
+      "path": "01-Projects/英语/作文笔记/0- 讲座：就这样写高分作文（告别模板）.md"
+    },
+    {
+      "basename": "00-待办事项",
+      "path": "00-待办事项.md"
+    },
+    {
+      "basename": "00-项目仪表盘",
+      "path": "00-项目仪表盘.md"
+    },
+    {
+      "basename": "00-GTD使用",
+      "path": "00-GTD使用.md"
+    },
+    {
+      "basename": "易混点",
+      "path": "易混点.md"
+    },
+    {
+      "basename": "00-PARA系统中心",
+      "path": "00-PARA系统中心.md"
+    },
+    {
       "basename": "2024-12月",
       "path": "01-Projects/英语/阅读技巧/2024-12月.md"
     },
@@ -89,10 +117,6 @@
       "path": "01-Projects/英语/语法笔记/readme.md"
     },
     {
-      "basename": "易混点",
-      "path": "易混点.md"
-    },
-    {
       "basename": "1",
       "path": "01-Projects/英语/语法笔记/1.md"
     },
@@ -161,10 +185,6 @@
       "path": "01-Projects/英语/作文笔记/0-思维导图.md"
     },
     {
-      "basename": "0- 讲座：就这样写高分作文（告别模板）",
-      "path": "01-Projects/英语/作文笔记/0- 讲座：就这样写高分作文（告别模板）.md"
-    },
-    {
       "basename": "31",
       "path": "01-Projects/英语/单词笔记/31.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "2025年05月22日",
       "path": "05-Journal/Daily/2025年05月22日.md"
-    },
-    {
-      "basename": "3 数值型数据",
-      "path": "01-Projects/统计学/3 数值型数据.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01-Projects/统计学/未命名.md"
-    },
-    {
-      "basename": "ch4 Numerical Measures",
-      "path": "01-Projects/统计学/教材/ch4 Numerical Measures.pdf"
-    },
-    {
-      "basename": "ch3 Graphs,Charts and Tables",
-      "path": "01-Projects/统计学/教材/ch3 Graphs,Charts and Tables.pdf"
-    },
-    {
-      "basename": "列联分析【必考】",
-      "path": "01-Projects/统计学/列联分析【必考】.md"
     }
   ],
   "omittedPaths": [],
