@@ -1,40 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "听力",
-      "path": "01-Projects/英语/听力.md"
+      "basename": "10",
+      "path": "01-Projects/01-经济法/黄_讲稿/10.md"
     },
     {
-      "basename": "0- 讲座：就这样写高分作文（告别模板）",
-      "path": "01-Projects/英语/作文笔记/0- 讲座：就这样写高分作文（告别模板）.md"
-    },
-    {
-      "basename": "00-待办事项",
-      "path": "00-待办事项.md"
-    },
-    {
-      "basename": "00-项目仪表盘",
-      "path": "00-项目仪表盘.md"
-    },
-    {
-      "basename": "00-GTD使用",
-      "path": "00-GTD使用.md"
-    },
-    {
-      "basename": "易混点",
-      "path": "易混点.md"
-    },
-    {
-      "basename": "00-PARA系统中心",
-      "path": "00-PARA系统中心.md"
-    },
-    {
-      "basename": "2024-12月",
-      "path": "01-Projects/英语/阅读技巧/2024-12月.md"
+      "basename": "9",
+      "path": "01-Projects/01-经济法/黄_讲稿/9.md"
     },
     {
       "basename": "8",
-      "path": "01-Projects/06-财务管理学/完整公式/8.md"
+      "path": "01-Projects/01-经济法/黄_讲稿/8.md"
+    },
+    {
+      "basename": "7",
+      "path": "01-Projects/01-经济法/黄_讲稿/7.md"
+    },
+    {
+      "basename": "6",
+      "path": "01-Projects/01-经济法/黄_讲稿/6.md"
+    },
+    {
+      "basename": "5",
+      "path": "01-Projects/01-经济法/黄_讲稿/5.md"
+    },
+    {
+      "basename": "4",
+      "path": "01-Projects/01-经济法/黄_讲稿/4.md"
+    },
+    {
+      "basename": "3",
+      "path": "01-Projects/01-经济法/黄_讲稿/3.md"
+    },
+    {
+      "basename": "20",
+      "path": "01-Projects/01-经济法/黄_讲稿/20.md"
+    },
+    {
+      "basename": "普通年金现值",
+      "path": "01-Projects/06-财务管理学/讲稿/普通年金现值.md"
+    },
+    {
+      "basename": "19",
+      "path": "01-Projects/01-经济法/黄_讲稿/19.md"
+    },
+    {
+      "basename": "16",
+      "path": "01-Projects/01-经济法/黄_讲稿/16.md"
+    },
+    {
+      "basename": "15",
+      "path": "01-Projects/01-经济法/黄_讲稿/15.md"
+    },
+    {
+      "basename": "12",
+      "path": "01-Projects/01-经济法/黄_讲稿/12.md"
+    },
+    {
+      "basename": "14",
+      "path": "01-Projects/01-经济法/黄_讲稿/14.md"
+    },
+    {
+      "basename": "13",
+      "path": "01-Projects/01-经济法/黄_讲稿/13.md"
+    },
+    {
+      "basename": "11",
+      "path": "01-Projects/01-经济法/黄_讲稿/11.md"
+    },
+    {
+      "basename": "2025年05月23日",
+      "path": "05-Journal/Daily/2025年05月23日.md"
     },
     {
       "basename": "7",
@@ -65,140 +101,104 @@
       "path": "01-Projects/06-财务管理学/完整公式/1.md"
     },
     {
-      "basename": "12",
-      "path": "01-Projects/英语/翻译笔记/12.md"
+      "basename": "核心财务比率之间的相互关系",
+      "path": "01-Projects/06-财务管理学/完整公式/核心财务比率之间的相互关系.md"
     },
     {
-      "basename": "11",
-      "path": "01-Projects/英语/翻译笔记/11.md"
-    },
-    {
-      "basename": "10",
-      "path": "01-Projects/英语/翻译笔记/10.md"
-    },
-    {
-      "basename": "9",
-      "path": "01-Projects/英语/翻译笔记/9.md"
-    },
-    {
-      "basename": "8",
-      "path": "01-Projects/英语/翻译笔记/8.md"
-    },
-    {
-      "basename": "7",
-      "path": "01-Projects/英语/翻译笔记/7.md"
-    },
-    {
-      "basename": "6",
-      "path": "01-Projects/英语/翻译笔记/6.md"
-    },
-    {
-      "basename": "5",
-      "path": "01-Projects/英语/翻译笔记/5.md"
-    },
-    {
-      "basename": "4",
-      "path": "01-Projects/英语/翻译笔记/4.md"
-    },
-    {
-      "basename": "3",
-      "path": "01-Projects/英语/翻译笔记/3.md"
-    },
-    {
-      "basename": "2",
-      "path": "01-Projects/英语/翻译笔记/2.md"
-    },
-    {
-      "basename": "1",
-      "path": "01-Projects/英语/翻译笔记/1.md"
-    },
-    {
-      "basename": "readme",
-      "path": "01-Projects/英语/语法笔记/readme.md"
-    },
-    {
-      "basename": "1",
-      "path": "01-Projects/英语/语法笔记/1.md"
-    },
-    {
-      "basename": "17",
-      "path": "01-Projects/英语/作文笔记/17.md"
+      "basename": "其他1",
+      "path": "01-Projects/06-财务管理学/完整公式/其他1.md"
     },
     {
       "basename": "16",
-      "path": "01-Projects/英语/作文笔记/16.md"
-    },
-    {
-      "basename": "15",
-      "path": "01-Projects/英语/作文笔记/15.md"
+      "path": "01-Projects/06-财务管理学/完整公式/16.md"
     },
     {
       "basename": "14",
-      "path": "01-Projects/英语/作文笔记/14.md"
+      "path": "01-Projects/06-财务管理学/完整公式/14.md"
     },
     {
       "basename": "13",
-      "path": "01-Projects/英语/作文笔记/13.md"
-    },
-    {
-      "basename": "8",
-      "path": "01-Projects/英语/作文笔记/8.md"
+      "path": "01-Projects/06-财务管理学/完整公式/13.md"
     },
     {
       "basename": "12",
-      "path": "01-Projects/英语/作文笔记/12.md"
+      "path": "01-Projects/06-财务管理学/完整公式/12.md"
+    },
+    {
+      "basename": "15",
+      "path": "01-Projects/06-财务管理学/完整公式/15.md"
     },
     {
       "basename": "11",
-      "path": "01-Projects/英语/作文笔记/11.md"
+      "path": "01-Projects/06-财务管理学/完整公式/11.md"
     },
     {
       "basename": "10",
-      "path": "01-Projects/英语/作文笔记/10.md"
+      "path": "01-Projects/06-财务管理学/完整公式/10.md"
     },
     {
       "basename": "9",
-      "path": "01-Projects/英语/作文笔记/9.md"
+      "path": "01-Projects/06-财务管理学/完整公式/9.md"
     },
     {
-      "basename": "7定语和定语从句",
-      "path": "01-Projects/英语/作文笔记/7定语和定语从句.md"
+      "basename": "8",
+      "path": "01-Projects/06-财务管理学/完整公式/8.md"
     },
     {
-      "basename": "主从复合句 - 从句详解",
-      "path": "01-Projects/英语/作文笔记/主从复合句 - 从句详解.md"
+      "basename": "公式讲稿",
+      "path": "01-Projects/06-财务管理学/讲稿/公式讲稿.md"
     },
     {
-      "basename": "并列句",
-      "path": "01-Projects/英语/作文笔记/并列句.md"
+      "basename": "23",
+      "path": "01-Projects/英语/单词笔记/23.md"
     },
     {
-      "basename": "32",
-      "path": "01-Projects/英语/单词笔记/32.md"
+      "basename": "20",
+      "path": "01-Projects/英语/单词笔记/20.md"
     },
     {
-      "basename": "1.简单句的满分句型 (3大句型，4小句型)",
-      "path": "01-Projects/英语/作文笔记/1.简单句的满分句型 (3大句型，4小句型).md"
+      "basename": "26",
+      "path": "01-Projects/英语/单词笔记/26.md"
     },
     {
-      "basename": "0-思维导图",
-      "path": "01-Projects/英语/作文笔记/0-思维导图.md"
+      "basename": "25",
+      "path": "01-Projects/英语/单词笔记/25.md"
     },
     {
-      "basename": "31",
-      "path": "01-Projects/英语/单词笔记/31.md"
+      "basename": "24",
+      "path": "01-Projects/英语/单词笔记/24.md"
     },
     {
-      "basename": "10",
-      "path": "01-Projects/英语/单词笔记/10.md"
+      "basename": "22",
+      "path": "01-Projects/英语/单词笔记/22.md"
     },
     {
-      "basename": "0",
-      "path": "01-Projects/英语/单词笔记/0.md"
+      "basename": "21",
+      "path": "01-Projects/英语/单词笔记/21.md"
     },
     {
-      "basename": "2025年05月22日",
-      "path": "05-Journal/Daily/2025年05月22日.md"
+      "basename": "19",
+      "path": "01-Projects/英语/单词笔记/19.md"
+    },
+    {
+      "basename": "18",
+      "path": "01-Projects/英语/单词笔记/18.md"
+    },
+    {
+      "basename": "听力",
+      "path": "01-Projects/英语/听力.md"
+    },
+    {
+      "basename": "0- 讲座：就这样写高分作文（告别模板）",
+      "path": "01-Projects/英语/作文笔记/0- 讲座：就这样写高分作文（告别模板）.md"
+    },
+    {
+      "basename": "00-待办事项",
+      "path": "00-待办事项.md"
+    },
+    {
+      "basename": "00-项目仪表盘",
+      "path": "00-项目仪表盘.md"
     }
   ],
   "omittedPaths": [],
