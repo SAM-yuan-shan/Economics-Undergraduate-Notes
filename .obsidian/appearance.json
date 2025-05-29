@@ -23,8 +23,8 @@
     "quadrant-view",
     "view"
   ],
-  "cssTheme": "Things",
-  "theme": "obsidian",
+  "cssTheme": "Border",
+  "theme": "moonstone",
   "baseFontSize": 17,
   "accentColor": "#f5c6c9",
   "showViewHeader": true
