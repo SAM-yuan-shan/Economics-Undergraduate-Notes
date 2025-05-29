@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "02",
+      "path": "01-Projects/考研/02.md"
+    },
+    {
+      "basename": "01",
+      "path": "01-Projects/考研/01.md"
+    },
+    {
+      "basename": "9-长期偿债能力2",
+      "path": "01-Projects/06-财务管理学/2-/课程/9-长期偿债能力2.md"
+    },
+    {
       "basename": "8",
       "path": "01-Projects/06-财务管理学/2-/8.md"
+    },
+    {
+      "basename": "9-",
+      "path": "01-Projects/06-财务管理学/2-/9-.md"
     },
     {
       "basename": "8-三个比率",
@@ -105,16 +121,8 @@
       "path": "01-Projects/06-财务管理学/0-框架.md"
     },
     {
-      "basename": "02",
-      "path": "01-Projects/考研/02.md"
-    },
-    {
       "basename": "大二下网课老师总结",
       "path": "01-Projects/大二下网课老师总结.md"
-    },
-    {
-      "basename": "01",
-      "path": "01-Projects/考研/01.md"
     },
     {
       "basename": "区间估计入门",
@@ -191,14 +199,6 @@
     {
       "basename": "1-期货期权市场的卖",
       "path": "01-Projects/05-投资学/自学笔记/1-期货期权市场的卖.md"
-    },
-    {
-      "basename": "基金的种类3",
-      "path": "01-Projects/05-投资学/自学笔记/基金的种类3.md"
-    },
-    {
-      "basename": "基金的种类2",
-      "path": "01-Projects/05-投资学/自学笔记/基金的种类2.md"
     }
   ],
   "omittedPaths": [],
